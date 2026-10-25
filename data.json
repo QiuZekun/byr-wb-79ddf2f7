@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T17:51:30+00:00",
+  "updatedAt": "2026-10-25T18:32:57+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -25,11 +25,18 @@
       "channel": "官网",
       "applied": "2026-10-16",
       "stage": "测评/笔试",
-      "next": "完成 Criteria CCAT + EPP 监考测评（全程开摄像头、录屏）",
-      "nextDate": "2026-10-25",
+      "next": "Criteria 测评已完成，等结果",
+      "nextDate": "",
       "nextTime": "",
       "updated": "2026-10-24",
-      "notes": "问卷已完成；10/24 晚收到 Criteria 测评邮件，是否已做完未确认"
+      "notes": "10/24 20:53 收到 Criteria 完成确认和 Workplace Insights 结果邮件",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "time": "20:53",
+          "text": "完成 Criteria CCAT + EPP 测评"
+        }
+      ]
     },
     {
       "id": "dl",
@@ -179,11 +186,18 @@
       "channel": "官网",
       "applied": "2026-10-18",
       "stage": "测评/笔试",
-      "next": "在线测评截止（约55分钟，禁止使用AI）",
-      "nextDate": "2026-10-25",
-      "nextTime": "20:00",
-      "updated": "2026-10-18",
-      "notes": "Rare 背景信息表已提交"
+      "next": "在线测评已完成，等结果",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-10-25",
+      "notes": "10/25 14:41 Byr 微信确认已完成在线测评（OC&C 不发完成确认邮件）",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "time": "14:41",
+          "text": "Byr 确认已完成在线测评"
+        }
+      ]
     },
     {
       "id": "lseg",
@@ -194,10 +208,16 @@
       "applied": "2026-10-18",
       "stage": "测评/笔试",
       "next": "Cappfinity Immersive 测评截止",
-      "nextDate": "2026-10-26",
-      "nextTime": "00:05",
-      "updated": "2026-10-24",
-      "notes": "10/24 收到提醒邮件；截止时间以邮件为准"
+      "nextDate": "2026-10-25",
+      "nextTime": "23:05",
+      "updated": "2026-10-25",
+      "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "text": "核对截止：今晚 23:05 GMT"
+        }
+      ]
     },
     {
       "id": "kear",
@@ -487,11 +507,19 @@
       "channel": "官网",
       "applied": "2026-10-21",
       "stage": "一面",
-      "next": "录播视频面试截止（3道题，需摄像头）",
-      "nextDate": "2026-10-25",
-      "nextTime": "16:24",
-      "updated": "2026-10-21",
-      "notes": "2027-09-06 入职"
+      "next": "录播视频面试已完成，等结果",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-10-25",
+      "notes": "10/25 14:20 收到视频面试完成确认；2027-09-06 入职",
+      "reachedInterview": true,
+      "history": [
+        {
+          "date": "2026-10-25",
+          "time": "14:20",
+          "text": "完成录播视频面试"
+        }
+      ]
     },
     {
       "id": "21g",
