@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T18:32:57+00:00",
+  "updatedAt": "2026-10-25T20:36:22+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -207,12 +207,17 @@
       "channel": "官网",
       "applied": "2026-10-18",
       "stage": "测评/笔试",
-      "next": "Cappfinity Immersive 测评截止",
-      "nextDate": "2026-10-25",
-      "nextTime": "23:05",
+      "next": "Cappfinity 测评已完成，等结果",
+      "nextDate": "",
+      "nextTime": "",
       "updated": "2026-10-25",
-      "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）",
+      "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）；10/25 20:35 Byr 微信确认已完成 Cappfinity 测评",
       "history": [
+        {
+          "date": "2026-10-25",
+          "time": "20:35",
+          "text": "Byr 确认已完成 Cappfinity 测评"
+        },
         {
           "date": "2026-10-25",
           "text": "核对截止：今晚 23:05 GMT"
