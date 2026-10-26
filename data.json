@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T11:10:15+00:00",
+  "updatedAt": "2026-10-26T12:38:05+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -532,18 +532,23 @@
       "city": "London（混合办公）",
       "channel": "官网",
       "applied": "2026-10-21",
-      "stage": "一面",
-      "next": "录播视频面试已完成，等结果",
+      "stage": "未通过",
+      "next": "",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-25",
-      "notes": "10/25 14:20 收到视频面试完成确认；2027-09-06 入职",
+      "updated": "2026-10-26",
+      "notes": "10/25 14:20 完成录播视频面试；10/26 12:37 拒信（综合评估后决定选择其他候选人）",
       "reachedInterview": true,
       "history": [
         {
           "date": "2026-10-25",
           "time": "14:20",
           "text": "完成录播视频面试"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "12:37",
+          "text": "收到拒信：综合评估后不再推进"
         }
       ]
     },
