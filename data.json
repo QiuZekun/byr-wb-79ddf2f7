@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T21:09:41+00:00",
+  "updatedAt": "2026-10-26T09:08:09+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -215,7 +215,7 @@
       "next": "Cappfinity 测评已完成，等结果",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）；10/25 20:35 Byr 微信确认已完成 Cappfinity 测评",
       "history": [
         {
@@ -226,6 +226,16 @@
         {
           "date": "2026-10-25",
           "text": "核对截止：今晚 23:05 GMT"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "02:31",
+          "text": "收到 LSEG 测评提交确认邮件（Immersive Online Assessment）"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "09:06",
+          "text": "收到 LSEG 测评个人反馈报告邮件（Capp，非录用结果）"
         }
       ]
     },
