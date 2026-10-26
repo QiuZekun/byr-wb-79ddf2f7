@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T09:20:45+00:00",
+  "updatedAt": "2026-10-26T11:10:15+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -185,13 +185,18 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-10-18",
-      "stage": "测评/笔试",
-      "next": "在线测评已完成，等结果",
-      "nextDate": "",
-      "nextTime": "",
-      "updated": "2026-10-25",
-      "notes": "10/25 14:41 Byr 微信确认已完成在线测评（OC&C 不发完成确认邮件）",
+      "stage": "一面",
+      "next": "完成单向视频面试（约20-25分钟，Cappfinity）",
+      "nextDate": "2026-11-02",
+      "nextTime": "11:08",
+      "updated": "2026-10-26",
+      "notes": "10/25 14:41 Byr 微信确认已完成在线测评（OC&C 不发完成确认邮件）；10/26 11:08 收到单向视频面试邀请，需在 7 天内完成（截止约 11/02 11:08 GMT）",
       "history": [
+        {
+          "date": "2026-10-26",
+          "time": "11:08",
+          "text": "收到单向视频面试（One-way Video Assessment）邀请，7 天内完成"
+        },
         {
           "date": "2026-10-25",
           "time": "14:41",
@@ -202,7 +207,8 @@
           "time": "21:03",
           "text": "收到 OC&C 在线测评个人反馈报告邮件（Capp，非录用结果）"
         }
-      ]
+      ],
+      "reachedInterview": true
     },
     {
       "id": "lseg",
