@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T16:43:00+00:00",
+  "updatedAt": "2026-10-27T16:49:40+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -518,11 +518,18 @@
       "channel": "官网",
       "applied": "2026-10-21",
       "stage": "测评/笔试",
-      "next": "Marketing 岗在线测评（约45分钟，不能暂停；岗位10/29关闭）",
-      "nextDate": "2026-10-29",
+      "next": "等待测评结果",
+      "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-26",
-      "notes": "年薪 £32,000，2027年9月入职；两个 Centrica 测评在同一登录页"
+      "updated": "2026-10-27",
+      "notes": "年薪 £32,000，2027年9月入职；两个 Centrica 测评在同一登录页；10/27 Byr 说测评已做完",
+      "history": [
+        {
+          "date": "2026-10-27",
+          "time": "16:49",
+          "text": "Byr 微信说已完成在线测评"
+        }
+      ]
     },
     {
       "id": "cen2",
@@ -532,11 +539,18 @@
       "channel": "官网",
       "applied": "2026-10-21",
       "stage": "测评/笔试",
-      "next": "People 岗在线测评（约45分钟，不能暂停；岗位10/29关闭）",
-      "nextDate": "2026-10-29",
+      "next": "等待测评结果",
+      "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-26",
-      "notes": "年薪 £32,000"
+      "updated": "2026-10-27",
+      "notes": "年薪 £32,000；10/27 Byr 说测评已做完",
+      "history": [
+        {
+          "date": "2026-10-27",
+          "time": "16:49",
+          "text": "Byr 微信说已完成在线测评"
+        }
+      ]
     },
     {
       "id": "fti",
