@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T09:32:38+00:00",
+  "updatedAt": "2026-10-27T16:43:00+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -613,6 +613,20 @@
       "nextTime": "",
       "updated": "2026-10-24",
       "notes": "2027年8/9月入职"
+    },
+    {
+      "id": "cen3",
+      "company": "Centrica",
+      "role": "Marketing Intern - Year in Industry（R0090943）",
+      "city": "英国（地点灵活）",
+      "channel": "官网",
+      "applied": "2026-10-27",
+      "stage": "已投递",
+      "next": "等待回复",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-10-27",
+      "notes": "带薪实习 £24,539，12个月，2027年6月入职；Byr 确认投递"
     }
   ],
   "plans": [
