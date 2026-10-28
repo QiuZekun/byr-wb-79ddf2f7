@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T13:21:07+00:00",
+  "updatedAt": "2026-10-28T13:34:25+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -660,6 +660,27 @@
           "text": "Byr 微信说已完成在线测评"
         }
       ]
+    },
+    {
+      "id": "amz1",
+      "company": "Amazon",
+      "role": "General Marketing Manager Intern 2027（10553318）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-10-28",
+      "stage": "已投递",
+      "next": "完成 Amazon 在线测评（必做）",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-10-28",
+      "notes": "带薪实习，全职6–12个月、每周5天到岗，2027年7月起；10/28 提交；需完成在线测评才会被考虑，入口在 amazon.jobs 申请面板",
+      "history": [
+        {
+          "date": "2026-10-28",
+          "time": "13:33",
+          "text": "提交申请，要求完成在线测评"
+        }
+      ]
     }
   ],
   "plans": [
@@ -698,15 +719,6 @@
       "deadline": "",
       "status": "卡住",
       "notes": "招聘网站一直报会话过期"
-    },
-    {
-      "id": "p5",
-      "company": "Amazon",
-      "role": "General Marketing Manager Intern 2027（10553318）",
-      "city": "London",
-      "deadline": "",
-      "status": "待确认",
-      "notes": "带薪实习，全职6–12个月、每周5天到岗；账号已建，填到岗位问题这一步；已微信问 Byr 实习时长、起止日期、Excel 水平、签证、语言、毕业日期等"
     }
   ],
   "reviews": [],
