@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T23:04:43+00:00",
+  "updatedAt": "2026-10-28T11:05:25+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -327,12 +327,19 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-10-18",
-      "stage": "测评/笔试",
-      "next": "Aon 测评已完成，等结果",
+      "stage": "未通过",
+      "next": "",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-23",
-      "notes": "10/23 收到完成测评确认"
+      "updated": "2026-10-28",
+      "notes": "10/23 收到完成测评确认；10/28 11:02 收到拒信（测评后未进入下一轮）",
+      "history": [
+        {
+          "date": "2026-10-28",
+          "time": "11:02",
+          "text": "收到拒信，不再推进申请"
+        }
+      ]
     },
     {
       "id": "lidl2",
