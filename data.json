@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T15:06:09+00:00",
+  "updatedAt": "2026-10-28T16:10:42+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -363,11 +363,18 @@
       "channel": "官网",
       "applied": "2026-10-18",
       "stage": "测评/笔试",
-      "next": "在线测评已完成，等结果",
-      "nextDate": "",
-      "nextTime": "",
-      "updated": "2026-10-20",
-      "notes": "10/20 收到 Candidate Report；岗位11/29截止；需整个项目期间有工作签证"
+      "next": "完成 Job Insight Assessment（行为测评，含录视频回答，约50分钟）",
+      "nextDate": "2026-11-04",
+      "nextTime": "15:57",
+      "updated": "2026-10-28",
+      "notes": "10/20 收到 Candidate Report；岗位11/29截止；需整个项目期间有工作签证；10/28 通过第一轮在线测评，受邀 Job Insight Assessment，7天内完成（11/4 15:57 前），通过后为 Assessment Centre（1-5月，半天）",
+      "history": [
+        {
+          "date": "2026-10-28",
+          "time": "15:57",
+          "text": "通过第一轮在线测评，收到 Job Insight Assessment 邀请（11/4 15:57 前完成）"
+        }
+      ]
     },
     {
       "id": "arr",
