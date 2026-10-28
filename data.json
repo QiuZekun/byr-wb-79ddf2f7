@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T13:41:54+00:00",
+  "updatedAt": "2026-10-28T15:06:09+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -489,11 +489,11 @@
       "channel": "官网",
       "applied": "2026-10-20",
       "stage": "测评/笔试",
-      "next": "Arctic Shores 测评（无明确截止，岗位11/05关闭）",
-      "nextDate": "2026-11-05",
-      "nextTime": "",
-      "updated": "2026-10-23",
-      "notes": "10/23 收到测评邀请"
+      "next": "Arctic Shores 测评（今晚截止，做完回复我）",
+      "nextDate": "2026-10-28",
+      "nextTime": "23:59",
+      "updated": "2026-10-28",
+      "notes": "10/23 收到测评邀请；10/28 提醒邮件：测评截止为 10/28 午夜，本周审核分数，下周通知下一步"
     },
     {
       "id": "nw",
