@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T17:39:10+00:00",
+  "updatedAt": "2026-10-29T08:06:19+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -453,12 +453,12 @@
       "city": "Watford",
       "channel": "官网",
       "applied": "2026-10-19",
-      "stage": "已投递",
+      "stage": "未通过",
       "next": "",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-23",
-      "notes": "10/23 通知审核需要更久；之前的 HireVue 视频面试邮件是误发，可忽略"
+      "updated": "2026-10-29",
+      "notes": "10/29 04:08 (UK) 收到拒信，申请阶段未通过；之前 10/23 通知审核需要更久"
     },
     {
       "id": "aviva",
