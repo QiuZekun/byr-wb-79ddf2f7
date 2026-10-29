@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T09:31:27+00:00",
+  "updatedAt": "2026-10-29T22:25:09+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -510,17 +510,22 @@
       "channel": "官网",
       "applied": "2026-10-20",
       "stage": "一面",
-      "next": "录播视频面试（3题，约15分钟；用原测评链接；建议5天内完成，7天未完成会撤回申请）",
-      "nextDate": "2026-10-31",
-      "nextTime": "19:58",
-      "updated": "2026-10-26",
-      "notes": "10/26 SOVA 测评通过，收到录播视频面试邀请",
+      "next": "等待视频面试结果",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-10-29",
+      "notes": "10/26 SOVA 测评通过，收到录播视频面试邀请；10/29 22:24 Byr 微信说录播视频面试已完成",
       "reachedInterview": true,
       "history": [
         {
           "date": "2026-10-26",
           "time": "19:58",
           "text": "SOVA 测评通过，收到录播视频面试邀请（5天内完成）"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "22:24",
+          "text": "Byr 微信说已完成录播视频面试"
         }
       ]
     },
