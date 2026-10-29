@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T09:12:32+00:00",
+  "updatedAt": "2026-10-29T09:31:27+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -701,17 +701,22 @@
       "city": "London",
       "channel": "招聘平台",
       "applied": "2026-10-29",
-      "stage": "已投递",
-      "next": "",
-      "nextDate": "",
-      "nextTime": "",
+      "stage": "测评/笔试",
+      "next": "完成 TestGorilla 在线测评（约30分钟，含2分钟视频）",
+      "nextDate": "2026-11-05",
+      "nextTime": "09:12",
       "updated": "2026-10-29",
-      "notes": "两年轮岗项目（活动运营、市场、客户洞察、数字产品等），截止 2027-01-03；10/29 经 Bright Network → SmartRecruiters 提交，未来签证担保答 Yes，高中只填了学校和年份（无成绩）",
+      "notes": "两年轮岗项目（活动运营、市场、客户洞察、数字产品等），截止 2027-01-03；10/29 经 Bright Network → SmartRecruiters 提交，未来签证担保答 Yes，高中只填了学校和年份（无成绩）；10/29 09:12 收到 TestGorilla 测评邀请（7天内完成），公司称 2027年2月1日那周反馈",
       "history": [
         {
           "date": "2026-10-29",
           "time": "09:12",
           "text": "提交申请（SmartRecruiters），等待确认邮件"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "09:12",
+          "text": "收到 TestGorilla 在线测评邀请（批判性思维、沟通、视频自我介绍），11/5 09:12 前完成"
         }
       ]
     }
