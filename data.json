@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T08:06:19+00:00",
+  "updatedAt": "2026-10-29T09:12:32+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -691,6 +691,27 @@
           "date": "2026-10-28",
           "time": "13:34",
           "text": "收到在线测评邀请，两周内完成（约11/11 13:34 前）"
+        }
+      ]
+    },
+    {
+      "id": "informa",
+      "company": "Informa",
+      "role": "2027 Graduate Fellowship Scheme",
+      "city": "London",
+      "channel": "招聘平台",
+      "applied": "2026-10-29",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-10-29",
+      "notes": "两年轮岗项目（活动运营、市场、客户洞察、数字产品等），截止 2027-01-03；10/29 经 Bright Network → SmartRecruiters 提交，未来签证担保答 Yes，高中只填了学校和年份（无成绩）",
+      "history": [
+        {
+          "date": "2026-10-29",
+          "time": "09:12",
+          "text": "提交申请（SmartRecruiters），等待确认邮件"
         }
       ]
     }
