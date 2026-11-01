@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T09:11:29+00:00",
+  "updatedAt": "2026-11-01T13:07:44+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -755,6 +755,27 @@
           "date": "2026-11-01",
           "time": "09:11",
           "text": "Byr 确认未来需要签证担保（申请中担保问题答错，需向公司说明）"
+        }
+      ]
+    },
+    {
+      "id": "interpath-value-creation",
+      "company": "Interpath Advisory",
+      "role": "Graduate Associate – Value Creations",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-01",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-01",
+      "notes": "11/1 通过 Interpath 官网（Workable，无需账号）提交，上传简历，未写求职信（选填）；毕业年份 2027；工作权选“有限期签证（Student/Graduate）”，并注明 Student 签证至 2027/1/11、之后 Graduate Route，未来需要签证担保。岗位说明提到 ACA 学习支持和财务模型分析。入职时间未写明（其他 Interpath 2027 毕业生岗为 2027 年 9 月）",
+      "history": [
+        {
+          "date": "2026-11-01",
+          "time": "13:30",
+          "text": "提交申请（Workable），页面显示已提交成功"
         }
       ]
     }
