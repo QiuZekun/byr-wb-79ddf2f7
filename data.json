@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T13:07:44+00:00",
+  "updatedAt": "2026-11-01T13:07:53+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -774,7 +774,7 @@
       "history": [
         {
           "date": "2026-11-01",
-          "time": "13:30",
+          "time": "13:07",
           "text": "提交申请（Workable），页面显示已提交成功"
         }
       ]
