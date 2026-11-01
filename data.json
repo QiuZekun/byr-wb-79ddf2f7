@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T17:39:43+00:00",
+  "updatedAt": "2026-11-01T09:06:29+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -729,6 +729,27 @@
           "date": "2026-10-29",
           "time": "09:12",
           "text": "收到 TestGorilla 在线测评邀请（批判性思维、沟通、视频自我介绍），11/5 09:12 前完成"
+        }
+      ]
+    },
+    {
+      "id": "elixirr",
+      "company": "Elixirr",
+      "role": "2027 Graduate Analyst（Consulting Analyst）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-01",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-01",
+      "notes": "11/1 通过 Elixirr 官网（Greenhouse，无需账号）提交，上传简历，未写求职信；入职时间填 July 2027；英国工作权（现在及未来均无需担保）答 Yes；如合适公司会邮件联系",
+      "history": [
+        {
+          "date": "2026-11-01",
+          "time": "09:15",
+          "text": "提交申请（Greenhouse），页面显示已收到"
         }
       ]
     }
