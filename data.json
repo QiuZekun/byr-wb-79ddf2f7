@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T13:07:53+00:00",
+  "updatedAt": "2026-11-01T17:12:46+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -775,6 +775,27 @@
         {
           "date": "2026-11-01",
           "time": "13:07",
+          "text": "提交申请（Workable），页面显示已提交成功"
+        }
+      ]
+    },
+    {
+      "id": "coppett-hill-associate-2027",
+      "company": "Coppett Hill",
+      "role": "Associate, September 2027",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-01",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-01",
+      "notes": "11/1 通过 Coppett Hill 官网（Workable 318084C1C2，无需账号）提交，只需姓名、邮箱和简历，无求职信。私募股权方向的咨询公司，2027 年 9 月入职，伦敦全职。工作权问题（能否通过 Graduate 签证等工作到至少 2029 年 3 月）答“是”；广告说欢迎 Graduate 签证持有者，工作 18 个月后可个案考虑 Skilled Worker 担保。广告偏好会 SQL/Python。",
+      "history": [
+        {
+          "date": "2026-11-01",
+          "time": "17:11",
           "text": "提交申请（Workable），页面显示已提交成功"
         }
       ]
