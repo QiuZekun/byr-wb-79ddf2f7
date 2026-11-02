@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T10:52:04+00:00",
+  "updatedAt": "2026-11-02T21:14:03+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -842,6 +842,15 @@
       "deadline": "",
       "status": "卡住",
       "notes": "招聘网站一直报会话过期"
+    },
+    {
+      "id": "christies",
+      "company": "Christie's",
+      "role": "Graduate Training Programme – EMEA – 2027 Intake（JR00015224）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/2 已建账号、填好第1-2步并上传简历；第3步卡住：需 Byr 本人确认“未使用AI”声明、自己写500词文章、确认是否持英国护照"
     }
   ],
   "reviews": [],
