@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T21:14:03+00:00",
+  "updatedAt": "2026-11-02T22:09:10+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -223,11 +223,11 @@
       "channel": "官网",
       "applied": "2026-10-18",
       "stage": "一面",
-      "next": "完成 Cappfinity 录播视频面试（7 天内，一次性完成）",
-      "nextDate": "2026-11-03",
-      "nextTime": "00:54",
-      "updated": "2026-10-27",
-      "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）；10/25 20:35 Byr 微信确认已完成 Cappfinity 测评；10/27 00:54 GMT 收到视频面试邀请（Video Interview Assessment），7 天内完成 → 约 11/3 00:54 GMT",
+      "next": "等结果（录播视频面试已完成）",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-02",
+      "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）；10/25 20:35 Byr 微信确认已完成 Cappfinity 测评；10/27 00:54 GMT 收到视频面试邀请（Video Interview Assessment），7 天内完成 → 约 11/3 00:54 GMT；11/2 22:08 GMT Byr 微信说“好了”（刚发视频面试链接后），视为已完成录播视频面试",
       "history": [
         {
           "date": "2026-10-25",
@@ -252,8 +252,14 @@
           "date": "2026-10-27",
           "time": "00:54",
           "text": "测评通过，收到录播视频面试邀请（7 天内完成）"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "22:08",
+          "text": "Byr 微信确认完成 Cappfinity 录播视频面试"
         }
-      ]
+      ],
+      "reachedInterview": true
     },
     {
       "id": "kear",
