@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T12:52:00+00:00",
+  "updatedAt": "2026-11-03T13:49:45+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -429,12 +429,12 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-10-18",
-      "stage": "已投递",
+      "stage": "未通过",
       "next": "",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-18",
-      "notes": ""
+      "updated": "2026-11-03",
+      "notes": "2026-11-03 13:40 收到拒信（简历筛选后未通过）"
     },
     {
       "id": "pres",
