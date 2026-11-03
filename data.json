@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T09:10:05+00:00",
+  "updatedAt": "2026-11-03T09:33:15+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -865,7 +865,7 @@
       "city": "Slough",
       "deadline": "",
       "status": "待确认",
-      "notes": "11/3 已建 Workday 账号、填完个人信息并上传简历；卡在 Right to Work（不需 Mars 担保即可工作？）一题，已微信问 Byr 是否作答及是否继续投"
+      "notes": "11/3 已建 Workday 账号、填完个人信息并上传简历；Byr 已确认 Right to Work 一题答 No（需要担保），待登录 Workday 后补完第3步并提交"
     }
   ],
   "reviews": [],
