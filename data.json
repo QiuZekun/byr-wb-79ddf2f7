@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T09:33:15+00:00",
+  "updatedAt": "2026-11-03T09:35:30+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -864,8 +864,8 @@
       "role": "Supply Chain Leadership Experience 2027 – Graduate Programme（R167783）",
       "city": "Slough",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/3 已建 Workday 账号、填完个人信息并上传简历；Byr 已确认 Right to Work 一题答 No（需要担保），待登录 Workday 后补完第3步并提交"
+      "status": "已跳过",
+      "notes": "11/3 已跳过：Mars 表格第4步说明该岗位薪资低于技术工签门槛，无法担保，要求长期无需担保的工作权利，还要求驾照；Byr 需要担保，不符合，未提交"
     }
   ],
   "reviews": [],
