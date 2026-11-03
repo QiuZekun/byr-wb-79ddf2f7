@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T22:09:10+00:00",
+  "updatedAt": "2026-11-03T09:10:05+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -857,6 +857,15 @@
       "deadline": "",
       "status": "待确认",
       "notes": "11/2 已建账号、填好第1-2步并上传简历；第3步卡住：需 Byr 本人确认“未使用AI”声明、自己写500词文章、确认是否持英国护照"
+    },
+    {
+      "id": "mars-sclx-2027",
+      "company": "Mars",
+      "role": "Supply Chain Leadership Experience 2027 – Graduate Programme（R167783）",
+      "city": "Slough",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/3 已建 Workday 账号、填完个人信息并上传简历；卡在 Right to Work（不需 Mars 担保即可工作？）一题，已微信问 Byr 是否作答及是否继续投"
     }
   ],
   "reviews": [],
