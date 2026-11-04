@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T21:11:28+00:00",
+  "updatedAt": "2026-11-04T08:15:38+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -232,8 +232,8 @@
       "next": "等结果（录播视频面试已完成）",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-11-02",
-      "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）；10/25 20:35 Byr 微信确认已完成 Cappfinity 测评；10/27 00:54 GMT 收到视频面试邀请（Video Interview Assessment），7 天内完成 → 约 11/3 00:54 GMT；11/2 22:08 GMT Byr 微信说“好了”（刚发视频面试链接后），视为已完成录播视频面试",
+      "updated": "2026-11-04",
+      "notes": "邀请邮件 10/19 00:05 BST（=10/18 23:05 UTC）发出，链接 7 天后过期 → 10/25 23:05 GMT（冬令时）；10/25 20:35 Byr 微信确认已完成 Cappfinity 测评；10/27 00:54 GMT 收到视频面试邀请（Video Interview Assessment），7 天内完成 → 约 11/3 00:54 GMT；11/2 22:08 GMT Byr 微信说“好了”（刚发视频面试链接后），视为已完成录播视频面试；11/4 02:33 GMT 收到视频面试提交确认邮件",
       "history": [
         {
           "date": "2026-10-25",
@@ -263,6 +263,11 @@
           "date": "2026-11-02",
           "time": "22:08",
           "text": "Byr 微信确认完成 Cappfinity 录播视频面试"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "02:33",
+          "text": "收到 LSEG 录播视频面试提交确认邮件，等结果"
         }
       ],
       "reachedInterview": true
