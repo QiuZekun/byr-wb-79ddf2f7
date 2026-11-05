@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T14:56:26+00:00",
+  "updatedAt": "2026-11-05T17:20:17+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -850,6 +850,27 @@
           "text": "收到 Criteria 在线测评邀请，截止 11/6 12:45"
         }
       ]
+    },
+    {
+      "id": "rothesay-ops-2027",
+      "company": "Rothesay",
+      "role": "2027 Graduate Programme – Operations（Greenhouse 8908895002）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-05",
+      "stage": "已投递",
+      "next": "等公司回复（表单勾选愿意做 online assessment）",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-05",
+      "notes": "11/5 通过 Greenhouse 提交 Operations 方向（首选 Installations Analyst），2027 年 9 月入职，截止 12/1。表单无签证题。CV 上传三次失败，改为粘贴简历正文；求职信按要求自写。City 字段因 Greenhouse 地点服务故障留空。",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "time": "17:19",
+          "text": "提交申请（Greenhouse），确认页显示 Thank you；CV 为粘贴正文，未附 PDF"
+        }
+      ]
     }
   ],
   "plans": [
@@ -906,6 +927,15 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/3 已跳过：Mars 表格第4步说明该岗位薪资低于技术工签门槛，无法担保，要求长期无需担保的工作权利，还要求驾照；Byr 需要担保，不符合，未提交"
+    },
+    {
+      "id": "loreal-gmt-marketing-2027",
+      "company": "L'Oréal",
+      "role": "Graduate Management Trainee – Marketing（London）",
+      "city": "London",
+      "deadline": "2026-11-20",
+      "status": "待确认",
+      "notes": "11/5 找到，可 2027 年 7 月入职；未提交。卡在签证下拉：需 Byr 确认选项——(1) UK/Irish/EU Settled 无限工作权；(2) EU Pre-Settled；(3) 持其他英国签证当前可工作但将来可能需担保；(4) 当前无英国工作权。URL: https://careers.loreal.com/en/job/london/graduate-management-trainee-marketing-london/3456/46477777408"
     }
   ],
   "reviews": [],
