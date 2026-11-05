@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T08:15:38+00:00",
+  "updatedAt": "2026-11-05T14:56:26+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -79,12 +79,19 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-10-17",
-      "stage": "已投递",
-      "next": "",
-      "nextDate": "",
+      "stage": "测评/笔试",
+      "next": "在 Maki People 完成 WiseStart 技术测试和简短视频面试",
+      "nextDate": "2026-11-11",
       "nextTime": "",
-      "updated": "2026-10-17",
-      "notes": "年薪 £52,000"
+      "updated": "2026-11-04",
+      "notes": "年薪 £52,000；11/4 15:17 通过筛选（邮件称 Analytics Graduate programme，伦敦），下一步在 Maki People 做技术测试+视频面试（限时，可分段休息），11/11 当天结束前完成；可用 AI 辅助但有 AI 检测",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "time": "15:17",
+          "text": "通过筛选，受邀在 Maki People 完成技术测试和视频面试（11/11 前）"
+        }
+      ]
     },
     {
       "id": "acn",
@@ -392,16 +399,21 @@
       "channel": "官网",
       "applied": "2026-10-18",
       "stage": "测评/笔试",
-      "next": "完成 Job Insight Assessment（行为测评，含录视频回答，约50分钟）",
-      "nextDate": "2026-11-04",
-      "nextTime": "15:57",
-      "updated": "2026-10-28",
-      "notes": "10/20 收到 Candidate Report；岗位11/29截止；需整个项目期间有工作签证；10/28 通过第一轮在线测评，受邀 Job Insight Assessment，7天内完成（11/4 15:57 前），通过后为 Assessment Centre（1-5月，半天）",
+      "next": "等待 FCA 结果（通过后为 Assessment Centre）",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-04",
+      "notes": "10/20 收到 Candidate Report；岗位11/29截止；需整个项目期间有工作签证；10/28 通过第一轮在线测评，受邀 Job Insight Assessment，7天内完成（11/4 15:57 前），通过后为 Assessment Centre（1-5月，半天）；11/4 完成 Job Insight Assessment，15:35 收到反馈报告",
       "history": [
         {
           "date": "2026-10-28",
           "time": "15:57",
           "text": "通过第一轮在线测评，收到 Job Insight Assessment 邀请（11/4 15:57 前完成）"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "15:35",
+          "text": "完成 Job Insight Assessment，收到反馈报告"
         }
       ]
     },
@@ -510,12 +522,24 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-10-20",
-      "stage": "已投递",
-      "next": "",
-      "nextDate": "",
+      "stage": "测评/笔试",
+      "next": "完成 Aon 在线测评（性格15分钟、数字12分钟、语言12分钟、背景信息1分钟）",
+      "nextDate": "2026-11-12",
       "nextTime": "",
-      "updated": "2026-10-20",
-      "notes": "UCAS 分数填成了 168（应为 144），未修改"
+      "updated": "2026-11-05",
+      "notes": "UCAS 分数填成了 168（应为 144），未修改；11/5 10:05 申请进入在线测评阶段，收到邀请后 7 个自然日内完成（约 11/12 前）；11/5 10:10 收到 Spotted Zebra 测评邀请，但邀请里写的岗位是 Broking Graduate，待确认",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "time": "10:05",
+          "text": "进入在线测评阶段"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:10",
+          "text": "收到 Spotted Zebra 测评邀请（性格、数字、语言），邀请写的是 Broking Graduate 岗位"
+        }
+      ]
     },
     {
       "id": "cbre",
