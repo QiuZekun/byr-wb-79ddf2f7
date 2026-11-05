@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T21:10:45+00:00",
+  "updatedAt": "2026-11-05T21:17:04+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -972,6 +972,15 @@
       "deadline": "2026-11-06",
       "status": "已跳过",
       "notes": "官网明确不提供 sponsorship，需全程 UK 工作权利；10/29 已判定跳过。11/5 收到未提交催促邮件（截止 11/6 12:00），仍不投。"
+    },
+    {
+      "id": "tiktok-sales-gbs-2027",
+      "company": "TikTok",
+      "role": "Sales Graduate (GBS) – 2027 Start（A221057，London）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/5 账号已建、CV已传、申请页已填大半未提交。卡在 Work Authorization：「Do you currently have the right to work in the country where the job you are applying for is located?」Yes/No（未确认）。赞助问题可答 Yes。表单仍开着。"
     }
   ],
   "reviews": [],
