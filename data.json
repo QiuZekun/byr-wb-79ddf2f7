@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T21:32:07+00:00",
+  "updatedAt": "2026-11-05T21:38:36+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -979,8 +979,8 @@
       "role": "Sales Graduate (GBS) – 2027 Start（A221057，London）",
       "city": "London",
       "deadline": "",
-      "status": "正在提交中",
-      "notes": "11/5 账号已建、CV已传。21:27 Byr微信确认 Work Authorization「目前是否有工作权利」= No。赞助题按规则填 Yes；正在补全来源并提交。"
+      "status": "已投递",
+      "notes": "11/5 21:38 已投递（页面确认 We have received your resume）。Work Authorization：目前工作权利 No（Byr 21:27 确认），未来赞助 Yes。Byr 提供了手机验证码完成验证。"
     }
   ],
   "reviews": [],
