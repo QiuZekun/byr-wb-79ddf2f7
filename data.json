@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T20:01:08+00:00",
+  "updatedAt": "2026-11-05T21:10:45+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -963,6 +963,15 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/3 已跳过：Mars 表格第4步说明该岗位薪资低于技术工签门槛，无法担保，要求长期无需担保的工作权利，还要求驾照；Byr 需要担保，不符合，未提交"
+    },
+    {
+      "id": "sky-ops-osterley-2027",
+      "company": "Sky",
+      "role": "Business Operations Graduate Programme 2027（Osterley）",
+      "city": "Osterley",
+      "deadline": "2026-11-06",
+      "status": "已跳过",
+      "notes": "官网明确不提供 sponsorship，需全程 UK 工作权利；10/29 已判定跳过。11/5 收到未提交催促邮件（截止 11/6 12:00），仍不投。"
     }
   ],
   "reviews": [],
