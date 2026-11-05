@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T19:55:23+00:00",
+  "updatedAt": "2026-11-05T19:56:11+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -931,8 +931,8 @@
       "role": "Graduate Training Programme – EMEA – 2027 Intake（JR00015224）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/2 已建账号、填好第1-2步并上传简历；第3步卡住：需 Byr 本人确认“未使用AI”声明、自己写500词文章、确认是否持英国护照"
+      "status": "已跳过",
+      "notes": "11/2 已建账号、填好第1-2步并上传简历；第3步需本人确认未使用AI声明、500词文章、是否持英国护照。Byr 11/5 19:55 微信回复「第三个不申请了」，不投递 Christie's，已跳过。"
     },
     {
       "id": "mars-sclx-2027",
