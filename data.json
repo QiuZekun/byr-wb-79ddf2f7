@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T21:38:40+00:00",
+  "updatedAt": "2026-11-05T21:45:02+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -920,12 +920,17 @@
       "nextDate": "",
       "nextTime": "",
       "updated": "2026-11-05",
-      "notes": "11/5 21:35 左右官网提交成功（lifeattiktok.com/resume/applied，账号 baiyingr@outlook.com）。Work Authorization=No；未来需 sponsorship=Yes。Byr 21:27 微信确认 No。",
+      "notes": "11/5 21:35 左右官网提交成功（lifeattiktok.com/resume/applied，账号 baiyingr@outlook.com）。提交时 Work Authorization=No、未来需 sponsorship=Yes（按 Byr 21:27 微信「no」）。11/5 21:44 Byr 微信更正「工作权限是yes啊」——「当前是否有工作权限」类题目此后答 Yes；与「无需担保的工作权限」类题目（仍答 No）区分。已投出的 TikTok 申请尚未改回。",
       "history": [
         {
           "date": "2026-11-05",
           "time": "21:35",
           "text": "官网提交成功（Sales Graduate GBS 2027）"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "21:44",
+          "text": "Byr 微信更正：当前工作权限应答 Yes（申请已按 No 提交）"
         }
       ]
     }
