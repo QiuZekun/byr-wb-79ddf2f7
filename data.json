@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T21:38:36+00:00",
+  "updatedAt": "2026-11-05T21:38:40+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -907,6 +907,27 @@
           "text": "提交申请，确认页显示 Thank you for applying"
         }
       ]
+    },
+    {
+      "id": "tiktok-sales-gbs-2027",
+      "company": "TikTok",
+      "role": "Sales Graduate (GBS) – 2027 Start（A221057，London）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-05",
+      "stage": "已投递",
+      "next": "等公司回复",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-05",
+      "notes": "11/5 21:35 左右官网提交成功（lifeattiktok.com/resume/applied，账号 baiyingr@outlook.com）。Work Authorization=No；未来需 sponsorship=Yes。Byr 21:27 微信确认 No。",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "time": "21:35",
+          "text": "官网提交成功（Sales Graduate GBS 2027）"
+        }
+      ]
     }
   ],
   "plans": [
@@ -972,15 +993,6 @@
       "deadline": "2026-11-06",
       "status": "已跳过",
       "notes": "官网明确不提供 sponsorship，需全程 UK 工作权利；10/29 已判定跳过。11/5 收到未提交催促邮件（截止 11/6 12:00），仍不投。"
-    },
-    {
-      "id": "tiktok-sales-gbs-2027",
-      "company": "TikTok",
-      "role": "Sales Graduate (GBS) – 2027 Start（A221057，London）",
-      "city": "London",
-      "deadline": "",
-      "status": "已投递",
-      "notes": "11/5 21:38 已投递（页面确认 We have received your resume）。Work Authorization：目前工作权利 No（Byr 21:27 确认），未来赞助 Yes。Byr 提供了手机验证码完成验证。"
     }
   ],
   "reviews": [],
