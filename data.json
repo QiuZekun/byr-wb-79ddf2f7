@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T19:56:29+00:00",
+  "updatedAt": "2026-11-05T20:01:08+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -886,6 +886,27 @@
           "text": "收到 Greenhouse 申请确认邮件"
         }
       ]
+    },
+    {
+      "id": "loreal-gmt-marketing-2027",
+      "company": "L'Oréal",
+      "role": "Graduate Management Trainee – Marketing（London，jobId 257573）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-05",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-05",
+      "notes": "11/5 20:00 在 L'Oréal 官网提交（新建账号 baiyingr@outlook.com）。签证选第3项（Byr 11/5 确认）。两篇 200 字内短文按真实 CV 撰写。入职 2028/1/3，年薪 £36,500，White City 每周3天到岗。",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "time": "20:00",
+          "text": "提交申请，确认页显示 Thank you for applying"
+        }
+      ]
     }
   ],
   "plans": [
@@ -942,15 +963,6 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/3 已跳过：Mars 表格第4步说明该岗位薪资低于技术工签门槛，无法担保，要求长期无需担保的工作权利，还要求驾照；Byr 需要担保，不符合，未提交"
-    },
-    {
-      "id": "loreal-gmt-marketing-2027",
-      "company": "L'Oréal",
-      "role": "Graduate Management Trainee – Marketing（London）",
-      "city": "London",
-      "deadline": "2026-11-20",
-      "status": "待确认",
-      "notes": "11/5 找到，可 2027 年 7 月入职。Byr 11/5 19:54 确认签证下拉选第 3 项（持其他英国签证、目前可工作、将来可能需担保），尚未提交：卡在 L'Oréal 登录页，等待登录后继续。URL: https://careers.loreal.com/en/job/london/graduate-management-trainee-marketing-london/3456/46477777408"
     }
   ],
   "reviews": [],
