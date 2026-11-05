@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T18:24:33+00:00",
+  "updatedAt": "2026-11-05T19:55:16+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -904,8 +904,8 @@
       "role": "Fashion, Home & Beauty Graduate Programme 2027",
       "city": "London",
       "deadline": "2026-11-08",
-      "status": "待确认",
-      "notes": "填到一半；要求工作权利到2029年9月，需 Byr 确认签证"
+      "status": "已跳过",
+      "notes": "要求工作权利到2029年9月；Byr 11/5 19:54 微信回复“第二个不可以”（工作权利到不了2029年9月），未提交，已跳过"
     },
     {
       "id": "p3",
@@ -950,7 +950,7 @@
       "city": "London",
       "deadline": "2026-11-20",
       "status": "待确认",
-      "notes": "11/5 找到，可 2027 年 7 月入职；未提交。卡在签证下拉：需 Byr 确认选项——(1) UK/Irish/EU Settled 无限工作权；(2) EU Pre-Settled；(3) 持其他英国签证当前可工作但将来可能需担保；(4) 当前无英国工作权。URL: https://careers.loreal.com/en/job/london/graduate-management-trainee-marketing-london/3456/46477777408"
+      "notes": "11/5 找到，可 2027 年 7 月入职。Byr 11/5 19:54 确认签证下拉选第 3 项（持其他英国签证、目前可工作、将来可能需担保），正在提交中。URL: https://careers.loreal.com/en/job/london/graduate-management-trainee-marketing-london/3456/46477777408"
     }
   ],
   "reviews": [],
