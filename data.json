@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T13:51:36+00:00",
+  "updatedAt": "2026-11-06T17:15:28+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -948,6 +948,27 @@
           "date": "2026-11-05",
           "time": "21:44",
           "text": "Byr 微信更正：当前工作权限应答 Yes（申请已按 No 提交）"
+        }
+      ]
+    },
+    {
+      "id": "cairneagle-grad-2027",
+      "company": "Cairneagle",
+      "role": "Consultant – Graduate Hires (G) 2027（Greenhouse 4952058101）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-06",
+      "stage": "已投递",
+      "next": "等公司回复（下一步多为在线数值/分析测评）",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-06",
+      "notes": "11/6 约 17:15 GMT 经 Greenhouse 游客投递成功（确认页 Thank you for applying）。工作权选 Student visa；最早入职 Sep 2027；本科/硕士均为 UCL；LinkedIn 填 N/A；已贴封面信。无账号。",
+      "history": [
+        {
+          "date": "2026-11-06",
+          "time": "17:15",
+          "text": "Greenhouse 游客投递成功（Consultant Graduate Hires 2027）"
         }
       ]
     }
