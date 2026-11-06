@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T17:50:00+00:00",
+  "updatedAt": "2026-11-06T18:48:43+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -523,11 +523,11 @@
       "channel": "官网",
       "applied": "2026-10-20",
       "stage": "测评/笔试",
-      "next": "等待 Aon 周五发 Consulting 测评下一步说明（若已完成 Broking 测评则无需重做）",
-      "nextDate": "2026-11-06",
-      "nextTime": "",
-      "updated": "2026-11-05",
-      "notes": "UCAS 分数填成了 168（应为 144），未修改；11/5 10:05 申请进入在线测评阶段；11/5 10:10 收到 Spotted Zebra 测评邀请但写的是 Broking Graduate；11/5 18:05 Aon 来信：Broking 邀请系误发，应为 Consulting Assessment，核心内容相同，已完成则无需担心，未完成则等 11/6（周五）下一步说明",
+      "next": "完成 Spotted Zebra Broking Graduate Assessment（等同 Talent Advisory Consulting 测评）",
+      "nextDate": "2026-11-13",
+      "nextTime": "18:32",
+      "updated": "2026-11-06",
+      "notes": "UCAS 分数填成了 168（应为 144），未修改；11/5 10:05 申请进入在线测评阶段；11/5 10:10 收到 Spotted Zebra 测评邀请但写的是 Broking Graduate；11/5 18:05 Aon 来信：Broking 邀请系误发，应为 Consulting Assessment，核心内容相同，已完成则无需担心，未完成则等 11/6（周五）下一步说明；11/6 18:32 Aon 来信：请继续完成 Broking Graduate Assessment（名称不同但测同一非技术能力，不吃亏）；因延误截止延长为本邮件日起 7 天，约至 11/13 18:32 GMT",
       "history": [
         {
           "date": "2026-11-05",
@@ -543,6 +543,11 @@
           "date": "2026-11-05",
           "time": "18:05",
           "text": "Aon 更正：Broking 测评邀请系误发，应为 Consulting；已完成则无需重做，未完成则等周五下一步说明"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "18:32",
+          "text": "Aon 更新：请完成 Broking Graduate Assessment（等同 Talent Advisory）；截止延长至约 11/13 18:32 GMT"
         }
       ]
     },
