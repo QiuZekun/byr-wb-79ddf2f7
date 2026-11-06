@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T18:48:43+00:00",
+  "updatedAt": "2026-11-06T20:22:20+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -916,17 +916,22 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-11-05",
-      "stage": "已投递",
-      "next": "",
+      "stage": "测评/笔试",
+      "next": "完成3项在线测评（数字测评可选；性格特质；认知测试）",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-11-05",
-      "notes": "11/5 20:00 在 L'Oréal 官网提交（新建账号 baiyingr@outlook.com）。签证选第3项（Byr 11/5 确认）。两篇 200 字内短文按真实 CV 撰写。入职 2028/1/3，年薪 £36,500，White City 每周3天到岗。",
+      "updated": "2026-11-06",
+      "notes": "11/5 20:00 在 L'Oréal 官网提交（新建账号 baiyingr@outlook.com）。签证选第3项（Byr 11/5 确认）。两篇 200 字内短文按真实 CV 撰写。入职 2028/1/3，年薪 £36,500，White City 每周3天到岗。 11/6 20:06 收到在线测评邀请：Digital Assessment（不限时、可选是否提交答案）、Personality Traits、Cognitive Test；邮件未给截止日。",
       "history": [
         {
           "date": "2026-11-05",
           "time": "20:00",
           "text": "提交申请，确认页显示 Thank you for applying"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "20:06",
+          "text": "收到在线测评邀请（3项：Digital Assessment 可选、Personality Traits、Cognitive Test；邮件未给截止日）"
         }
       ]
     },
