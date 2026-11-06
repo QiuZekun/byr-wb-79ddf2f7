@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T11:25:45+00:00",
+  "updatedAt": "2026-11-06T13:51:36+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1015,6 +1015,15 @@
       "deadline": "2026-11-06",
       "status": "已跳过",
       "notes": "官网明确不提供 sponsorship，需全程 UK 工作权利；10/29 已判定跳过。11/5 收到未提交催促邮件（截止 11/6 12:00），仍不投。"
+    },
+    {
+      "id": "checkout-talent-ops-2027",
+      "company": "Checkout.com",
+      "role": "2027 Talent Operations Graduate Programme（London，Ashby 3cdcddfe）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/6 表单已填未交；等 Byr 确认 Expected Salary（含币种）和 Notice period；签证项已按确认答案填；毕业日期用 Sept 2027"
     }
   ],
   "reviews": [],
