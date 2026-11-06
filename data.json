@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T17:15:28+00:00",
+  "updatedAt": "2026-11-06T17:18:35+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1044,7 +1044,7 @@
       "city": "London",
       "deadline": "",
       "status": "待确认",
-      "notes": "11/6 表单已填未交；等 Byr 确认 Expected Salary（含币种）和 Notice period；签证项已按确认答案填；毕业日期用 Sept 2027"
+      "notes": "11/6 表单已填未交；Byr 已确认 Expected Salary £35,000；仍等 Notice period（拟填 Immediate）；签证项已按确认答案填；毕业日期用 Sept 2027"
     }
   ],
   "reviews": [],
