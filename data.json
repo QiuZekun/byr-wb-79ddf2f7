@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T20:22:20+00:00",
+  "updatedAt": "2026-11-06T21:09:01+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -984,6 +984,27 @@
           "date": "2026-11-06",
           "time": "17:16",
           "text": "HR 邮件：本轮截止已过，暂不审、不发测评；等下一轮或重开通知"
+        }
+      ]
+    },
+    {
+      "id": "tiktok-agency-partnerships-gbs-2027",
+      "company": "TikTok",
+      "role": "Agency Partnerships Team Graduate (GBS) – 2027 Start（A216626，London）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-06",
+      "stage": "已投递",
+      "next": "等公司回复（滚动审核）",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-06",
+      "notes": "11/6 约 21:08 GMT 官网提交成功（lifeattiktok.com/resume/applied）。账号已登录、简历/教育预填；自我介绍已改为 Agency Partnerships，写明 2027 年 9 月毕业、7 月起可入职。工作权限=Yes、未来需 sponsorship=Yes。这是 TikTok 2027 届第二也是最后一个申请名额（限 2）。",
+      "history": [
+        {
+          "date": "2026-11-06",
+          "time": "21:08",
+          "text": "官网提交成功（Agency Partnerships GBS 2027，A216626）"
         }
       ]
     }
