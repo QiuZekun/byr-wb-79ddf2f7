@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T17:18:35+00:00",
+  "updatedAt": "2026-11-06T17:18:54+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1043,8 +1043,8 @@
       "role": "2027 Talent Operations Graduate Programme（London，Ashby 3cdcddfe）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/6 表单已填未交；Byr 已确认 Expected Salary £35,000；仍等 Notice period（拟填 Immediate）；签证项已按确认答案填；毕业日期用 Sept 2027"
+      "status": "已跳过",
+      "notes": "11/6 表单已填未交；Byr 确认 Expected Salary £30,000、Notice period 按提议；同日招聘页 404 下架，无法提交，记为已跳过"
     }
   ],
   "reviews": [],
