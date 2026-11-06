@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T17:18:54+00:00",
+  "updatedAt": "2026-11-06T17:50:00+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -959,16 +959,21 @@
       "channel": "官网",
       "applied": "2026-11-06",
       "stage": "已投递",
-      "next": "等公司回复（下一步多为在线数值/分析测评）",
+      "next": "等下一轮招聘季审核（本轮截止已过，暂不发测评）",
       "nextDate": "",
       "nextTime": "",
       "updated": "2026-11-06",
-      "notes": "11/6 约 17:15 GMT 经 Greenhouse 游客投递成功（确认页 Thank you for applying）。工作权选 Student visa；最早入职 Sep 2027；本科/硕士均为 UCL；LinkedIn 填 N/A；已贴封面信。无账号。",
+      "notes": "11/6 约 17:15 GMT 经 Greenhouse 游客投递成功（确认页 Thank you for applying）。工作权选 Student visa；最早入职 Sep 2027；本科/硕士均为 UCL；LinkedIn 填 N/A；已贴封面信。无账号。 11/6 17:16 GMT 邮件：本轮申请截止已过，暂不主动审，不会发数值/言语在线测评链接，现阶段无需操作；若重开或进入下一轮会再通知。",
       "history": [
         {
           "date": "2026-11-06",
           "time": "17:15",
           "text": "Greenhouse 游客投递成功（Consultant Graduate Hires 2027）"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "17:16",
+          "text": "HR 邮件：本轮截止已过，暂不审、不发测评；等下一轮或重开通知"
         }
       ]
     }
