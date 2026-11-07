@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T21:09:01+00:00",
+  "updatedAt": "2026-11-07T09:10:33+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1005,6 +1005,27 @@
           "date": "2026-11-06",
           "time": "21:08",
           "text": "官网提交成功（Agency Partnerships GBS 2027，A216626）"
+        }
+      ]
+    },
+    {
+      "id": "q5-ra-autumn-2027",
+      "company": "Q5",
+      "role": "Research Analysts (UK) – Autumn 2027（12周实习，Workable B3EBDBBC51）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-07",
+      "stage": "已投递",
+      "next": "等公司回复",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-07",
+      "notes": "11/7 约 09:10 GMT Workable 游客投递成功（确认页 Your application has been submitted successfully；无参考号）。CV 已附。当前工作权限=Yes；现在或未来需 sponsorship=Yes；Student visa 到期 2027-01-11。可选 diversity 问卷留空。起止约 2027-09-06 起 12 周。",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "time": "09:10",
+          "text": "Workable 提交成功（Research Analysts Autumn 2027）"
         }
       ]
     }
