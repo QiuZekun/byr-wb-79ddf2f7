@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T09:10:33+00:00",
+  "updatedAt": "2026-11-07T12:16:40+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -943,11 +943,11 @@
       "channel": "官网",
       "applied": "2026-11-05",
       "stage": "已投递",
-      "next": "等公司回复",
+      "next": "等登录后改门户工作权限 No→Yes",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-11-05",
-      "notes": "11/5 21:35 左右官网提交成功（lifeattiktok.com/resume/applied，账号 baiyingr@outlook.com）。提交时 Work Authorization=No、未来需 sponsorship=Yes（按 Byr 21:27 微信「no」）。11/5 21:44 Byr 微信更正「工作权限是yes啊」——「当前是否有工作权限」类题目此后答 Yes；与「无需担保的工作权限」类题目（仍答 No）区分。已投出的 TikTok 申请尚未改回。",
+      "updated": "2026-11-07",
+      "notes": "11/5 21:35 左右官网提交成功（lifeattiktok.com/resume/applied，账号 baiyingr@outlook.com）。提交时 Work Authorization=No、未来需 sponsorship=Yes（按 Byr 21:27 微信「no」）。11/5 21:44 Byr 微信更正「工作权限是yes啊」——「当前是否有工作权限」类题目此后答 Yes；与「无需担保的工作权限」类题目（仍答 No）区分。11/7 12:15 Byr 微信「要」同意尝试把已投申请的工作权限改回 Yes；12:16 打开 lifeattiktok.com/position/application 需重新登录，尚未改成。",
       "history": [
         {
           "date": "2026-11-05",
@@ -958,6 +958,16 @@
           "date": "2026-11-05",
           "time": "21:44",
           "text": "Byr 微信更正：当前工作权限应答 Yes（申请已按 No 提交）"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "12:15",
+          "text": "Byr 微信同意尝试门户改工作权限 No→Yes"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "12:16",
+          "text": "官网需重新登录，改权限暂未完成"
         }
       ]
     },
