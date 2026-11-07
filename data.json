@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T12:16:40+00:00",
+  "updatedAt": "2026-11-07T13:18:26+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1036,6 +1036,27 @@
           "date": "2026-11-07",
           "time": "09:10",
           "text": "Workable 提交成功（Research Analysts Autumn 2027）"
+        }
+      ]
+    },
+    {
+      "id": "rothesay-asset-ops-2027",
+      "company": "Rothesay",
+      "role": "2027 Graduate Programme – Operations – Asset Operations（Greenhouse 8925369002）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-07",
+      "stage": "已投递",
+      "next": "等公司回复（可能另发测评；主 Operations 测评仍约 11/10 17:20 前）",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-07",
+      "notes": "11/7 约 13:18 GMT Greenhouse 游客投递成功（确认页 Thank you for applying. Your application has been received）。CV 已附；求职信按必填自写。教育填 UCL Master’s、预计 2027 毕业。表单无签证题。性别选 Female；家庭职业 Prefer not to share。与已投的 Operations（rothesay-ops-2027）为不同职位，表单允许第二次申请。",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "time": "13:18",
+          "text": "Greenhouse 提交成功（Operations – Asset Operations）"
         }
       ]
     }
