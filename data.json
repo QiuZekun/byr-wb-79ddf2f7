@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T09:03:21+00:00",
+  "updatedAt": "2026-11-08T11:19:02+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1119,12 +1119,17 @@
       "nextDate": "",
       "nextTime": "",
       "updated": "2026-11-08",
-      "notes": "通过 Reply 官网申请表提交（滚动招聘）；确认页 “Thank you very much for your application!”。表单没有签证/薪资问题，人才库选择不同意。",
+      "notes": "通过 Reply 官网申请表提交（滚动招聘）；确认页 “Thank you very much for your application!”。表单没有签证/薪资问题，人才库选择不同意。 11/8 Byr 已点邮件验证邮箱，申请完成；Reply 不会邮件通知进度，需登录候选人账户查看。",
       "history": [
         {
           "date": "2026-11-08",
           "time": "09:03",
           "text": "官网提交成功"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "11:18",
+          "text": "Byr 完成邮箱验证，申请正式完成"
         }
       ]
     }
