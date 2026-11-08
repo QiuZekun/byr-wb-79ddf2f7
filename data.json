@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T11:19:02+00:00",
+  "updatedAt": "2026-11-08T13:06:13+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1206,6 +1206,18 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/6 表单已填未交；Byr 确认 Expected Salary £30,000、Notice period 按提议；同日招聘页 404 下架，无法提交，记为已跳过"
+    },
+    {
+      "id": "fospha-partnerships-grad",
+      "company": "Fospha",
+      "role": "Graduate Partnership Executive（London，Greenhouse 8356144）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/8 表单未交：必答题问试用期每周5天到办公室、之后每周4天办公室/1天远程是否接受。招聘页未写开始时间和薪水。签证「能否在无签证/担保情况下长期在英国合法工作」按已确认答案填 No。已微信问 Byr。",
+      "nextStep": {
+        "action": "回复微信：能否接受 Fospha 办公室出勤安排"
+      }
     }
   ],
   "reviews": [],
