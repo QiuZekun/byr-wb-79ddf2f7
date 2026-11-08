@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T17:10:47+00:00",
+  "updatedAt": "2026-11-08T09:03:21+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1104,6 +1104,27 @@
           "date": "2026-11-07",
           "time": "17:10",
           "text": "Ashby 提交成功"
+        }
+      ]
+    },
+    {
+      "id": "reply-change-comms-2027",
+      "company": "Reply",
+      "role": "Graduate Change & Communications Consultant（London，2027年9月入职，JO-SF-11417）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-08",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-08",
+      "notes": "通过 Reply 官网申请表提交（滚动招聘）；确认页 “Thank you very much for your application!”。表单没有签证/薪资问题，人才库选择不同意。",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "time": "09:03",
+          "text": "官网提交成功"
         }
       ]
     }
