@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T13:06:13+00:00",
+  "updatedAt": "2026-11-08T13:14:33+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1132,6 +1132,37 @@
           "text": "Byr 完成邮箱验证，申请正式完成"
         }
       ]
+    },
+    {
+      "id": "fospha-partnerships-grad",
+      "company": "Fospha",
+      "role": "Graduate Partnership Executive（London，Greenhouse 8356144）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-08",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-08",
+      "notes": "11/8 约 13:14 GMT 经 Greenhouse 游客投递成功（确认页 Thank you for applying. Your application has been received. If there is a fit, someone will be getting back to you.）。Byr 微信回复「能」，办公室出勤填 Yes（试用期每周5天到办公室，之后每周4天办公室/1天远程）。签证「能否在无签证/担保情况下长期在英国合法工作」填 No，签证类型 Student visa (Tier 4)，最早入职 July 2027。已上传简历并粘贴求职信。招聘页未写开始时间和薪水。无账号。流程：15分钟 Talent 筛选电话 → Hiring Manager → Task and Panel → Final Exec。",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "time": "13:05",
+          "text": "表单因办公室出勤安排待 Byr 确认而暂缓"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "13:10",
+          "text": "Byr 微信回复「能」，接受试用期每周5天到办公室、之后4天办公室/1天远程"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "13:14",
+          "text": "Greenhouse 游客投递成功"
+        }
+      ]
     }
   ],
   "plans": [
@@ -1206,18 +1237,6 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/6 表单已填未交；Byr 确认 Expected Salary £30,000、Notice period 按提议；同日招聘页 404 下架，无法提交，记为已跳过"
-    },
-    {
-      "id": "fospha-partnerships-grad",
-      "company": "Fospha",
-      "role": "Graduate Partnership Executive（London，Greenhouse 8356144）",
-      "city": "London",
-      "deadline": "",
-      "status": "待确认",
-      "notes": "11/8 表单未交：必答题问试用期每周5天到办公室、之后每周4天办公室/1天远程是否接受。招聘页未写开始时间和薪水。签证「能否在无签证/担保情况下长期在英国合法工作」按已确认答案填 No。已微信问 Byr。",
-      "nextStep": {
-        "action": "回复微信：能否接受 Fospha 办公室出勤安排"
-      }
     }
   ],
   "reviews": [],
