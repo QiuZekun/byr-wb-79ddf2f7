@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T13:14:33+00:00",
+  "updatedAt": "2026-11-08T14:16:06+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -886,11 +886,11 @@
       "channel": "官网",
       "applied": "2026-11-05",
       "stage": "测评/笔试",
-      "next": "完成 Rothesay 在线测评（约30分钟，Canditech，收到后5天内）",
-      "nextDate": "2026-11-10",
-      "nextTime": "17:20",
-      "updated": "2026-11-05",
-      "notes": "11/5 通过 Greenhouse 提交 Operations 方向（首选 Installations Analyst），2027 年 9 月入职，截止 12/1。表单无签证题。CV 上传三次失败，改为粘贴简历正文；求职信按要求自写。City 字段因 Greenhouse 地点服务故障留空。 11/5 17:20 收到在线测评邀请，5天内完成。",
+      "next": "等待测评结果",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-08",
+      "notes": "11/5 通过 Greenhouse 提交 Operations 方向（首选 Installations Analyst），2027 年 9 月入职，截止 12/1。表单无签证题。CV 上传三次失败，改为粘贴简历正文；求职信按要求自写。City 字段因 Greenhouse 地点服务故障留空。 11/5 17:20 收到在线测评邀请，5天内完成。 11/8 13:42 英国时间（GMT）收到 Canditech 确认：已完成 2027 Graduate Programme – Operations 在线测评，对方表示会尽快联系并请留意邮件。",
       "history": [
         {
           "date": "2026-11-05",
@@ -906,6 +906,11 @@
           "date": "2026-11-05",
           "time": "17:20",
           "text": "收到 Greenhouse 申请确认邮件"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "13:42",
+          "text": "Canditech 确认已完成 Operations 在线测评，对方表示会尽快联系并请留意邮件"
         }
       ]
     },
@@ -1047,11 +1052,11 @@
       "channel": "官网",
       "applied": "2026-11-07",
       "stage": "测评/笔试",
-      "next": "完成 Rothesay Asset Operations 在线测评（约30分钟，Canditech，收到后5天内）",
-      "nextDate": "2026-11-12",
-      "nextTime": "13:19",
-      "updated": "2026-11-07",
-      "notes": "11/7 约 13:18 GMT Greenhouse 游客投递成功（确认页 Thank you for applying. Your application has been received）。CV 已附；求职信按必填自写。教育填 UCL Master’s、预计 2027 毕业。表单无签证题。性别选 Female；家庭职业 Prefer not to share。与已投的 Operations（rothesay-ops-2027）为不同职位，表单允许第二次申请。 11/7 13:19 收到 Canditech 在线测评邀请（Operations – AO，约30分钟，5天内完成）。",
+      "next": "等待测评结果",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-08",
+      "notes": "11/7 约 13:18 GMT Greenhouse 游客投递成功（确认页 Thank you for applying. Your application has been received）。CV 已附；求职信按必填自写。教育填 UCL Master’s、预计 2027 毕业。表单无签证题。性别选 Female；家庭职业 Prefer not to share。与已投的 Operations（rothesay-ops-2027）为不同职位，表单允许第二次申请。 11/7 13:19 收到 Canditech 在线测评邀请（Operations – AO，约30分钟，5天内完成）。 11/8 13:48 英国时间（GMT）收到 Canditech 确认：已完成 2027 Graduate Programme – Operations – AO 在线测评，对方表示会尽快联系并请留意邮件。",
       "history": [
         {
           "date": "2026-11-07",
@@ -1062,6 +1067,11 @@
           "date": "2026-11-07",
           "time": "13:19",
           "text": "收到 Canditech 在线测评邀请（Operations – AO，约30分钟，5天内）"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "13:48",
+          "text": "Canditech 确认已完成 Asset Operations（AO）在线测评，对方表示会尽快联系并请留意邮件"
         }
       ]
     },
