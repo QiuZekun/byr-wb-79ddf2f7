@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T14:16:06+00:00",
+  "updatedAt": "2026-11-09T12:08:10+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -576,8 +576,8 @@
       "next": "等待视频面试结果",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-29",
-      "notes": "10/26 SOVA 测评通过，收到录播视频面试邀请；10/29 22:24 Byr 微信说录播视频面试已完成",
+      "updated": "2026-11-09",
+      "notes": "10/26 SOVA 测评通过，收到录播视频面试邀请；10/29 22:24 Byr 微信说录播视频面试已完成；11/9 11:57 Nationwide 邮件确认已收到录播视频面试，正在审核，会再通知是否进入下一阶段",
       "reachedInterview": true,
       "history": [
         {
@@ -589,6 +589,11 @@
           "date": "2026-10-29",
           "time": "22:24",
           "text": "Byr 微信说已完成录播视频面试"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "11:57",
+          "text": "Nationwide 邮件：录播视频面试已收到，审核中，结果待通知；反馈报告在测评平台 Reports 页"
         }
       ]
     },
