@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T13:32:48+00:00",
+  "updatedAt": "2026-11-09T17:13:40+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1176,6 +1176,27 @@
           "date": "2026-11-08",
           "time": "13:14",
           "text": "Greenhouse 游客投递成功"
+        }
+      ]
+    },
+    {
+      "id": "gmass-ops-analyst",
+      "company": "G MASS",
+      "role": "Graduate Operations Analyst - London Market Insurance（Workable E1424498F6）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-09",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-09",
+      "notes": "11/9 约 17:12 GMT 经 Workable 游客投递成功（确认页 Thank you! Your application has been submitted successfully.）。伦敦保险市场 syndicate 运营分析岗，混合办公，全职，£30k。期望薪资填 30000。表单无签证问题。已上传简历。无账号。",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "time": "17:12",
+          "text": "Workable 游客投递成功"
         }
       ]
     }
