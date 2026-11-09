@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T17:13:40+00:00",
+  "updatedAt": "2026-11-09T20:29:22+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1199,6 +1199,27 @@
           "text": "Workable 游客投递成功"
         }
       ]
+    },
+    {
+      "id": "analysys-mason-ac-transformation-2027",
+      "company": "Analysys Mason",
+      "role": "Associate Consultant, September 2027 - Transformation（SmartRecruiters）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-09",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-09",
+      "notes": "11/9 晚投递成功（页面确认已提交，会有确认邮件）。英国工作状态按 Byr 选择填 C（毕业生学生签，之后需要 SSW 担保）。",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "time": "21:25",
+          "text": "SmartRecruiters 投递成功"
+        }
+      ]
     }
   ],
   "plans": [
@@ -1275,22 +1296,13 @@
       "notes": "11/6 表单已填未交；Byr 确认 Expected Salary £30,000、Notice period 按提议；同日招聘页 404 下架，无法提交，记为已跳过"
     },
     {
-      "id": "analysys-mason-ac-transformation-2027",
-      "company": "Analysys Mason",
-      "role": "Associate Consultant, September 2027 – Transformation（SmartRecruiters 744000159150989）",
-      "city": "London",
-      "deadline": "",
-      "status": "待确认",
-      "notes": "11/9 已填联系方式和简历，未提交；签证题「What is your current working status in the UK?」四个选项需 Byr 亲自选择"
-    },
-    {
       "id": "ion-rotational-analyst-ldp-2027",
       "company": "ION Group",
       "role": "Rotational Analyst, 2027 Leadership Development Program（Lever）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/9 未填写；需 Byr 确认「Are you legally authorized to work in UK for any employer?」(Yes/No)，以及薪资（期望 £30,000）和最早入职 2027年7月"
+      "status": "卡住",
+      "notes": "11/9 Byr 确认可在英国为任何雇主工作=Yes。表单已填好（期望薪资 £30,000，最早入职 2027年7月），但提交时验证码(hCaptcha)校验失败（HTTP 400），尚未投出，稍后重试。"
     }
   ],
   "reviews": [],
