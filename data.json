@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T16:58:40+00:00",
+  "updatedAt": "2026-11-10T20:54:44+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1319,6 +1319,18 @@
       "notes": "11/10 约 17:58 GMT 游客申请已填好简历、联系方式、教育经历和动机，未提交。等 Byr 在微信确认：是否有在英国居住和工作的权利（Yes/No）、工作权利状态三选一、是否会开车、项目期间能否用车、家庭住址两行、学位专业认证情况。签证类型已填 Student，到期 11 Jan 2027。11/10 已微信询问。",
       "nextStep": {
         "action": "在微信回复 Turner & Townsend 申请的 6 个问题"
+      }
+    },
+    {
+      "id": "board-intelligence-bd-2027",
+      "company": "Board Intelligence",
+      "role": "Graduate Business Development Associate（Lever 81681ff7）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/10 约 20:50 GMT 游客申请已上传简历、填联系方式、期望薪资 £30,000、入职时间 July 2027，未提交。等 Byr 确认：是否在英国有合法工作权利（Yes/No）、是否需要签证担保（自由填写）、能否接受每周 3 天到办公室、notice period、两道 AI 使用情况单选。微信两次发送失败（ret=-2），已排队待重发。",
+      "nextStep": {
+        "action": "在微信回复 Board Intelligence 申请的 6 个问题"
       }
     }
   ],
