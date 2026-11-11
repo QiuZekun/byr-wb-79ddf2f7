@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T16:14:35+00:00",
+  "updatedAt": "2026-11-11T16:57:00+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1250,6 +1250,27 @@
         {
           "date": "2026-11-11",
           "time": "13:00",
+          "text": "Ashby 提交成功"
+        }
+      ]
+    },
+    {
+      "id": "resonance-ai-transformation-2027",
+      "company": "Resonance",
+      "role": "Graduate AI Transformation Lead（London，Ashby cd236562）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-11",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-11",
+      "notes": "11/11 通过 Ashby 访客表单提交，确认页 “Your application was successfully submitted”。2027 夏季入职，公司可为符合条件者提供签证担保；简介中写明 2027 年 7 月起可入职、将来需要签证担保。表单未问薪资和通知期。",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "time": "16:56",
           "text": "Ashby 提交成功"
         }
       ]
