@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T20:54:44+00:00",
+  "updatedAt": "2026-11-11T13:00:51+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1225,6 +1225,27 @@
           "text": "收到 AssessFirst 在线测评邀请（7天内完成）"
         }
       ]
+    },
+    {
+      "id": "checkout-talent-ops-2027",
+      "company": "Checkout.com",
+      "role": "2027 Talent Operations Graduate Programme（London，Ashby 3cdcddfe）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-11",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-11",
+      "notes": "岗位 11/9 重新上线，通过 Ashby 访客表单提交；确认页 “Your application was successfully submitted”。期望薪资 £35,000，通知期 Immediate，Student visa 至 2027-01-11、将来需要担保，每周到岗 3 天、可参加线下终面。",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "time": "13:00",
+          "text": "Ashby 提交成功"
+        }
+      ]
     }
   ],
   "plans": [
@@ -1290,15 +1311,6 @@
       "deadline": "2026-11-06",
       "status": "已跳过",
       "notes": "官网明确不提供 sponsorship，需全程 UK 工作权利；10/29 已判定跳过。11/5 收到未提交催促邮件（截止 11/6 12:00），仍不投。"
-    },
-    {
-      "id": "checkout-talent-ops-2027",
-      "company": "Checkout.com",
-      "role": "2027 Talent Operations Graduate Programme（London，Ashby 3cdcddfe）",
-      "city": "London",
-      "deadline": "",
-      "status": "已跳过",
-      "notes": "11/6 表单已填未交；Byr 确认 Expected Salary £30,000、Notice period 按提议；同日招聘页 404 下架，无法提交，记为已跳过"
     },
     {
       "id": "ion-rotational-analyst-ldp-2027",
