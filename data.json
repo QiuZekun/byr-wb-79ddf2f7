@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T23:25:04+00:00",
+  "updatedAt": "2026-11-12T23:29:47+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1374,10 +1374,10 @@
       "role": "Graduate Business Development Associate（Lever 81681ff7）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/12 夜 Byr 确认：工作权利 Yes、暂时不需要担保、每周 3 天办公室可以，其余由助手代填。正在填写并提交。",
+      "status": "卡住",
+      "notes": "11/12 夜 表单已全部填好（工作权利 Yes、无需担保、3 天办公室、notice、AI 单选、两篇短文），但提交时 hCaptcha/Lever 反机器人校验反复失败，未提交。",
       "nextStep": {
-        "action": "填完 notice period、AI 单选和两篇短文后提交"
+        "action": "稍后重试提交，或请 Byr 本人在电脑上提交"
       }
     }
   ],
