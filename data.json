@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T12:13:59+00:00",
+  "updatedAt": "2026-11-13T17:04:43+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1404,6 +1404,18 @@
       "notes": "11/12 夜 表单已全部填好（工作权利 Yes、无需担保、3 天办公室、notice、AI 单选、两篇短文），但提交时 hCaptcha/Lever 反机器人校验反复失败，未提交。",
       "nextStep": {
         "action": "稍后重试提交，或请 Byr 本人在电脑上提交"
+      }
+    },
+    {
+      "id": "fitch-solutions-commercial-grad-2027",
+      "company": "Fitch Solutions",
+      "role": "Commercial Graduate Program, London, September 2027（SuccessFactors 50846）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/13 已建账号、上传简历、表单基本填好（需要担保 Yes、学生签证、薪资 £40,000 接受、2027年9月入职 Yes、每周 3 天办公室 Yes），未提交。等 Byr 确认：毕业日期是否在 2026 夏到 2027 夏之间、是否曾受雇于 Fitch 集团、英语水平选项。",
+      "nextStep": {
+        "action": "等 Byr 在微信确认 3 个问题后提交"
       }
     }
   ],
