@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T23:29:47+00:00",
+  "updatedAt": "2026-11-13T11:10:41+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1282,6 +1282,27 @@
           "date": "2026-11-11",
           "time": "16:56",
           "text": "Ashby 提交成功"
+        }
+      ]
+    },
+    {
+      "id": "computacenter-tech-sales-2027",
+      "company": "Computacenter",
+      "role": "Technology Sales Graduate Programme 2027（job 220431，London/Hatfield）",
+      "city": "London/Hatfield",
+      "channel": "官网",
+      "applied": "2026-11-13",
+      "stage": "已投递",
+      "next": "确认是否发邮件给 Computacenter 更正第三道签证题",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-13",
+      "notes": "11/13 约 11:08（英国时间 GMT）通过 SuccessFactors 提交成功，确认页 “Your Application has been sent. Thank you!”。期望薪资 £30,000，已附简历。2027 年 9 月入职，为期 16 个月。第三道签证题填错：表单选项顺序与发给 Byr 的列表不一致（No Selection 被算作第一项），浏览器误选了 “I have a birth or adoption certificate issued in the UK, together with ... National Insurance number”；Byr 本意是选项 E（something else/other）。已告知 Byr，等她确认是否发邮件给 Computacenter 更正。",
+      "history": [
+        {
+          "date": "2026-11-13",
+          "time": "11:08",
+          "text": "SuccessFactors 提交成功；第三道签证题误选为英国出生证明选项，待确认是否发邮件更正"
         }
       ]
     }
