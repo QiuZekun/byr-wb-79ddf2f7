@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T20:51:19+00:00",
+  "updatedAt": "2026-11-13T22:23:54+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1310,6 +1310,27 @@
           "text": "SuccessFactors 提交成功；第三道签证题误选为英国出生证明选项，待确认是否发邮件更正"
         }
       ]
+    },
+    {
+      "id": "blockchain-early-careers-2027",
+      "company": "Blockchain.com",
+      "role": "Early Careers Program 2027（Greenhouse 8379726）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-13",
+      "stage": "已投递",
+      "next": "等待公司回复",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-13",
+      "notes": "11/13 晚（英国时间 GMT）通过 Greenhouse 提交成功，确认页 “Your Application Has Been Submitted”。Byr 微信回复 yes：接受每周 4 天伦敦办公室；英国工作权限填 Yes。",
+      "history": [
+        {
+          "date": "2026-11-13",
+          "time": "22:23",
+          "text": "提交 Blockchain.com Early Careers 2027 申请"
+        }
+      ]
     }
   ],
   "plans": [
@@ -1416,18 +1437,6 @@
       "notes": "11/13 已建账号、上传简历、表单基本填好（需要担保 Yes、学生签证、薪资 £40,000 接受、2027年9月入职 Yes、每周 3 天办公室 Yes），未提交。等 Byr 确认：毕业日期是否在 2026 夏到 2027 夏之间、是否曾受雇于 Fitch 集团、英语水平选项。",
       "nextStep": {
         "action": "等 Byr 在微信确认 3 个问题后提交"
-      }
-    },
-    {
-      "id": "blockchain-early-careers-2027",
-      "company": "Blockchain.com",
-      "role": "Early Careers Program 2027（Greenhouse 8379726；Sales & BD / Marketing & Growth / Business Operations）",
-      "city": "London",
-      "deadline": "",
-      "status": "待确认",
-      "notes": "11/13 找到，尚未填写、未提交。必答题：岗位要求每周 4 天在伦敦办公室上班，能否接受（Yes/No）。已微信问 Byr。",
-      "nextStep": {
-        "action": "等 Byr 在微信确认能否每周 4 天到办公室后提交"
       }
     }
   ],
