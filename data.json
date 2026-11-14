@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T22:23:54+00:00",
+  "updatedAt": "2026-11-14T13:06:58+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1437,6 +1437,18 @@
       "notes": "11/13 已建账号、上传简历、表单基本填好（需要担保 Yes、学生签证、薪资 £40,000 接受、2027年9月入职 Yes、每周 3 天办公室 Yes），未提交。等 Byr 确认：毕业日期是否在 2026 夏到 2027 夏之间、是否曾受雇于 Fitch 集团、英语水平选项。",
       "nextStep": {
         "action": "等 Byr 在微信确认 3 个问题后提交"
+      }
+    },
+    {
+      "id": "adidas-social-pr-2027",
+      "company": "adidas",
+      "role": "SOCIAL & PR GRADUATE 2027 London（SuccessFactors 552013）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "项目期 2027年9月–2028年9月。11/14 已建账号并保存草稿（岗位 https://jobs.adidas-group.com/job/London-SOCIAL-&-PR-GRADUATE-2027-LONDON/1455735433/）。等 Byr 确认（11/14 13:07 已发微信）：是否有该国合法工作资格（No/Unknown/Yes）、是否有英国全程工作权利（Yes/No）、大学学生证号。",
+      "nextStep": {
+        "action": "等 Byr 在微信确认工作资格、全程工作权利和大学学生证号后提交"
       }
     }
   ],
