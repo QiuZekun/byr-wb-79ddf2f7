@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T13:06:58+00:00",
+  "updatedAt": "2026-11-14T17:23:57+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1449,6 +1449,18 @@
       "notes": "项目期 2027年9月–2028年9月。11/14 已建账号并保存草稿（岗位 https://jobs.adidas-group.com/job/London-SOCIAL-&-PR-GRADUATE-2027-LONDON/1455735433/）。等 Byr 确认（11/14 13:07 已发微信）：是否有该国合法工作资格（No/Unknown/Yes）、是否有英国全程工作权利（Yes/No）、大学学生证号。",
       "nextStep": {
         "action": "等 Byr 在微信确认工作资格、全程工作权利和大学学生证号后提交"
+      }
+    },
+    {
+      "id": "workman-property-mgmt-2027",
+      "company": "Workman LLP",
+      "role": "2027 Early Careers Programme - Property Management（Workable 9917CCADC9）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/14 找到，未填写未提交。表格问 Do you have the right to work full time in the UK?（YES/NO），已在微信问 Byr。",
+      "nextStep": {
+        "action": "等 Byr 在微信回复 YES/NO 后再投递"
       }
     }
   ],
