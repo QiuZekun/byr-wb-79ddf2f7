@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T12:30:13+00:00",
+  "updatedAt": "2026-11-15T12:30:28+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1474,11 +1474,8 @@
       "role": "2027 Early Careers Programme - Property Management（Workable 9917CCADC9）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/14 找到，未填写未提交。表格问 Do you have the right to work full time in the UK?（YES/NO），已在微信问 Byr。",
-      "nextStep": {
-        "action": "等 Byr 在微信回复 YES/NO 后再投递"
-      }
+      "status": "已跳过",
+      "notes": "11/14 找到，未填写未提交。11/15 已跳过：表单要求回答英国驾照问题，还有五篇长作文，且是工读项目（work-and-study programme）。"
     }
   ],
   "reviews": [],
