@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T12:21:57+00:00",
+  "updatedAt": "2026-11-15T12:30:13+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1351,6 +1351,27 @@
           "text": "提交申请，页面确认已发送"
         }
       ]
+    },
+    {
+      "id": "fitch-solutions-commercial-grad-2027",
+      "company": "Fitch Solutions",
+      "role": "Commercial Graduate Program, London, September 2027（SuccessFactors 50846）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-15",
+      "stage": "已投递",
+      "next": "等待公司回复",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-15",
+      "notes": "11/15 约 12:28（英国时间 GMT）通过 SuccessFactors 提交成功，确认页 “Your application has been successfully submitted. Thank you very much for your interest in a career with the Fitch Group!”。需要签证担保 Yes（Student visa）；可接受年薪 £40,000，Desired Salary 填 £40,000；可 2027 年 9 月入职，接受混合办公；毕业时间在窗口内；未曾受雇于 Fitch Group。得知途径 Company Website，Current Title 填 MSc Student。性别和族裔选择不愿透露，残障 No。表单未出现英语水平题。",
+      "history": [
+        {
+          "date": "2026-11-15",
+          "time": "12:28",
+          "text": "SuccessFactors 提交成功"
+        }
+      ]
     }
   ],
   "plans": [
@@ -1445,18 +1466,6 @@
       "notes": "11/12 夜 表单已全部填好（工作权利 Yes、无需担保、3 天办公室、notice、AI 单选、两篇短文），但提交时 hCaptcha/Lever 反机器人校验反复失败，未提交。",
       "nextStep": {
         "action": "稍后重试提交，或请 Byr 本人在电脑上提交"
-      }
-    },
-    {
-      "id": "fitch-solutions-commercial-grad-2027",
-      "company": "Fitch Solutions",
-      "role": "Commercial Graduate Program, London, September 2027（SuccessFactors 50846）",
-      "city": "London",
-      "deadline": "",
-      "status": "待确认",
-      "notes": "11/13 已建账号、上传简历、表单基本填好，未提交。11/15 Byr 确认：未曾受雇于 Fitch 集团、英语 C1，毕业 2027 年 6 月在窗口内。浏览器登录态失效，待重新登录后提交。",
-      "nextStep": {
-        "action": "重新登录 SuccessFactors 后提交"
       }
     },
     {
