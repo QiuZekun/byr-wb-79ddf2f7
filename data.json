@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T13:23:43+00:00",
+  "updatedAt": "2026-11-16T13:30:27+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1483,6 +1483,15 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/14 找到，未填写未提交。11/15 已跳过：表单要求回答英国驾照问题，还有五篇长作文，且是工读项目（work-and-study programme）。"
+    },
+    {
+      "id": "hsbc-innovation-marketing-grad-2027",
+      "company": "HSBC Innovation Banking",
+      "role": "Graduate - Marketing（job 66900，2027年9月6日入职）",
+      "city": "London",
+      "deadline": "2026-11-27",
+      "status": "待确认",
+      "notes": "16/11 SuccessFactors 表格已填（简历已上传、当前工作资格 Yes），未提交、无保存草稿按钮；等 Byr 回答 5 个是/否问题：HSBC 有无亲属、是否需要合理便利、是否曾受雇/外包于 HSBC、是否走 Disability Confident 通道、是否受雇于 HSBC 外部审计师。截止 27/11。"
     }
   ],
   "reviews": [],
