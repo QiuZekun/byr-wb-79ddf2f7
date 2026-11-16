@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T12:30:28+00:00",
+  "updatedAt": "2026-11-16T13:23:43+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -300,12 +300,19 @@
       "city": "Richmond（混合办公）",
       "channel": "招聘平台",
       "applied": "2026-10-18",
-      "stage": "已投递",
+      "stage": "未通过",
       "next": "",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-10-18",
-      "notes": "通过 RippleMatch 投递"
+      "updated": "2026-11-16",
+      "notes": "通过 RippleMatch 投递；11/16 13:23 收到拒信（未进入面试阶段）",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "time": "13:23",
+          "text": "收到 eBay 拒信"
+        }
+      ]
     },
     {
       "id": "abi",
