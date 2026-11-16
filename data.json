@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T13:35:06+00:00",
+  "updatedAt": "2026-11-16T17:24:01+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1509,6 +1509,24 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/14 找到，未填写未提交。11/15 已跳过：表单要求回答英国驾照问题，还有五篇长作文，且是工读项目（work-and-study programme）。"
+    },
+    {
+      "id": "computacenter-biz-ops-2027",
+      "company": "Computacenter",
+      "role": "Business Operations & Commercial Planning Graduate Programme 2027（job 221279，2027年9月入职）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/16 17:23（英国时间 GMT）已登录 SuccessFactors、简历已附上，未改字段、未提交。卡在 3 道签证/工作权利题，已微信询问 Byr（请按选项原文回复）。这是不同于已投 Technology Sales（job 220431）的另一项目。门户 company=C0000167518P。"
+    },
+    {
+      "id": "ofcom-policy-enforcement-research-grad-2027",
+      "company": "Ofcom",
+      "role": "Policy, Enforcement, and Research Graduate – London 2027（AmberTrack）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/16 上午在 AmberTrack 建好账号并填到「请确认岗位开始时的 Right to Work status」，因该题需 Byr 本人确认而未提交（无可见草稿）。中午已微信询问。之后浏览器关闭，未保存的表单可能已丢失，待她回复选项原文后再重新填写提交。"
     }
   ],
   "reviews": [],
