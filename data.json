@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T19:41:17+00:00",
+  "updatedAt": "2026-11-16T19:47:31+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1528,8 +1528,11 @@
       "role": "Policy, Enforcement, and Research Graduate – London 2027（AmberTrack）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/16 上午在 AmberTrack 建好账号并填到「请确认岗位开始时的 Right to Work status」，因该题需 Byr 本人确认而未提交（无可见草稿）。中午已微信询问。之后浏览器关闭，未保存的表单可能已丢失，待她回复选项原文后再重新填写提交。"
+      "status": "待提交",
+      "notes": "11/16 上午在 AmberTrack 建好账号并填到「请确认岗位开始时的 Right to Work status」（当时当前 RTW 已选 Student Visa；无可见草稿）。11/16 19:30（英国时间 GMT）Byr 微信回复「1 Graduate visa」，确认岗位开始时的 Right to Work 选 Graduate Visa。19:40 左右重新打开 AmberTrack 登录页，待登录后按该选项重新填写并提交。",
+      "nextStep": {
+        "action": "登录 Ofcom AmberTrack，按 Graduate Visa 填写并提交"
+      }
     }
   ],
   "reviews": [],
