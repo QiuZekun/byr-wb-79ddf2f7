@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T17:24:01+00:00",
+  "updatedAt": "2026-11-16T19:41:17+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1516,8 +1516,11 @@
       "role": "Business Operations & Commercial Planning Graduate Programme 2027（job 221279，2027年9月入职）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/16 17:23（英国时间 GMT）已登录 SuccessFactors、简历已附上，未改字段、未提交。卡在 3 道签证/工作权利题，已微信询问 Byr（请按选项原文回复）。这是不同于已投 Technology Sales（job 220431）的另一项目。门户 company=C0000167518P。"
+      "status": "待提交",
+      "notes": "11/16 17:23（英国时间 GMT）已登录 SuccessFactors、简历已附上，未改字段、未提交。11/16 19:31 Byr 微信确认三道签证/工作权利题，按选项原文：（1）Are you legally eligible to work in the country you’re applying to? → I have a visa and can provide the share code；（2）confirm right to work in the UK when the role starts and for the duration of the scheme → Yes- I have the right to work in the UK；（3）Please can you confirm your proof of right to work in the UK- → Yes – I have a visa and can provide the share code。表单会话随后过期，尚未提交。下一步：用 baiyingr@outlook.com 重新登录 career5.successfactors.eu company=C0000167518P job 221279，按原文选择这三项后提交。这是不同于已投 Technology Sales（job 220431）的另一项目。",
+      "nextStep": {
+        "action": "用已确认的三道签证选项重新登录 SuccessFactors 并提交"
+      }
     },
     {
       "id": "ofcom-policy-enforcement-research-grad-2027",
