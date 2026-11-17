@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T09:14:44+00:00",
+  "updatedAt": "2026-11-17T09:49:04+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1426,6 +1426,32 @@
           "text": "SuccessFactors 提交成功"
         }
       ]
+    },
+    {
+      "id": "ofcom-policy-enforcement-research-grad-2027",
+      "company": "Ofcom",
+      "role": "Policy, Enforcement, and Research Graduate – London 2027（AmberTrack）",
+      "city": "London",
+      "channel": "招聘平台",
+      "applied": "2026-11-17",
+      "stage": "测评/笔试",
+      "next": "完成 Ofcom 综合测评（Online Assessment and Video Interview，约45分钟至1小时，可中途退出再续）",
+      "nextDate": "2026-11-27",
+      "nextTime": "09:47",
+      "updated": "2026-11-17",
+      "notes": "11/17 约 09:46（英国时间 GMT）通过 Bright Network AmberTrack 提交成功。岗位开始时的 Right to Work 按 Byr 确认选了 Graduate Visa。提交后 My Account 显示 “Your blended assessment is ready for you to complete”。11/17 09:47 收到 Bright Network 邮件，邀请完成 Online Assessment and Video Interview（综合测评，约45分钟至1小时，可中途退出再续）；自本邮件日起 10 天内完成，截止约 11/27 09:47 GMT。登录 https://brightnetwork.ambertrack.co.uk/ofcom2027/CandidateLogin.aspx 。申请表中有简历未记载的 A-level 记录：A-level Mathematics、A-level Business，Non UK Other，成绩 A，UCAS 144，待 Byr 确认是否属实。",
+      "history": [
+        {
+          "date": "2026-11-17",
+          "time": "09:46",
+          "text": "AmberTrack 提交成功"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:47",
+          "text": "收到综合测评（Online Assessment and Video Interview）邀请，10天内完成，截止约 11/27 09:47 GMT"
+        }
+      ]
     }
   ],
   "plans": [
@@ -1530,18 +1556,6 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/14 找到，未填写未提交。11/15 已跳过：表单要求回答英国驾照问题，还有五篇长作文，且是工读项目（work-and-study programme）。"
-    },
-    {
-      "id": "ofcom-policy-enforcement-research-grad-2027",
-      "company": "Ofcom",
-      "role": "Policy, Enforcement, and Research Graduate – London 2027（AmberTrack）",
-      "city": "London",
-      "deadline": "",
-      "status": "待提交",
-      "notes": "11/16 上午在 AmberTrack 建好账号并填到「请确认岗位开始时的 Right to Work status」（当时当前 RTW 已选 Student Visa；无可见草稿）。11/16 19:30（英国时间 GMT）Byr 微信回复「1 Graduate visa」，确认岗位开始时的 Right to Work 选 Graduate Visa。19:40 左右重新打开 AmberTrack 登录页，待登录后按该选项重新填写并提交。",
-      "nextStep": {
-        "action": "登录 Ofcom AmberTrack，按 Graduate Visa 填写并提交"
-      }
     }
   ],
   "reviews": [],
