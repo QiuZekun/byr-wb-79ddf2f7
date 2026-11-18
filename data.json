@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T09:49:04+00:00",
+  "updatedAt": "2026-11-18T21:24:48+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1346,16 +1346,21 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-11-14",
-      "stage": "已投递",
-      "next": "等待回复",
+      "stage": "未通过",
+      "next": "",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-11-14",
-      "notes": "11/14 提交成功（页面显示 Your application has been sent）。项目期 2027年9月–2028年9月。Byr 确认：合法工作资格 Yes、全程英国工作权利 Yes，已填学生证号；电话区号补 +44。",
+      "updated": "2026-11-18",
+      "notes": "11/14 提交成功（页面显示 Your application has been sent）。项目期 2027年9月–2028年9月。Byr 确认：合法工作资格 Yes、全程英国工作权利 Yes，已填学生证号；电话区号补 +44。 11/18 17:01 收到拒信（自动邮件），止步已投递阶段。",
       "history": [
         {
           "date": "2026-11-14",
           "text": "提交申请，页面确认已发送"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "17:01",
+          "text": "收到拒信"
         }
       ]
     },
