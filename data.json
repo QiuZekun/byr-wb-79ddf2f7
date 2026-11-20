@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T08:19:14+00:00",
+  "updatedAt": "2026-11-20T21:31:57+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1480,6 +1480,27 @@
           "date": "2026-11-17",
           "time": "09:47",
           "text": "收到综合测评（Online Assessment and Video Interview）邀请，10天内完成，截止约 11/27 09:47 GMT"
+        }
+      ]
+    },
+    {
+      "id": "synthomer-commercial-grad-2027",
+      "company": "Synthomer",
+      "role": "Commercial Graduate（Ignite Graduate Leadership Programme，Workday R7373）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-20",
+      "stage": "已投递",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-20",
+      "notes": "11/20 通过 Workday 官网投递（TargetJobs 发现），2027年9月入职，伦敦总部；页面状态 Review，暂无测评/视频要求",
+      "history": [
+        {
+          "date": "2026-11-20",
+          "time": "21:35",
+          "text": "已提交申请（Workday R7373），状态 Review"
         }
       ]
     }
