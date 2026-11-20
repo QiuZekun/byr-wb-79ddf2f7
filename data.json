@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T13:21:18+00:00",
+  "updatedAt": "2026-11-20T08:19:14+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1408,10 +1408,10 @@
       "channel": "官网",
       "applied": "2026-11-16",
       "stage": "测评/笔试",
-      "next": "完成 HSBC Numerical Reasoning Graduate 在线测评（越快越好）",
-      "nextDate": "",
+      "next": "11/26 前完成 HSBC Numerical Reasoning 在线测评（约23分钟）",
+      "nextDate": "2026-11-26",
       "nextTime": "",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "notes": "11/16 约 13:34（GMT）SuccessFactors 提交成功，收到确认邮件。Byr 对 5 个是/否问题均答「否」。同日收到技能测评邮件：Numerical Reasoning Graduate，邮件称越快越好，未写截止时间。",
       "history": [
         {
@@ -1423,6 +1423,11 @@
           "date": "2026-11-16",
           "time": "13:34",
           "text": "收到 Numerical Reasoning 测评邀请"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "00:57",
+          "text": "收到 SHL 测评提醒：截止 2026-11-26"
         }
       ]
     },
