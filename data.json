@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T21:31:57+00:00",
+  "updatedAt": "2026-11-21T17:28:46+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1607,6 +1607,18 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/14 找到，未填写未提交。11/15 已跳过：表单要求回答英国驾照问题，还有五篇长作文，且是工读项目（work-and-study programme）。"
+    },
+    {
+      "id": "schroders-wealth-transformation-2027",
+      "company": "Schroders",
+      "role": "2027 Wealth Management (Transformation) Graduate Programme（Oracle job 2513）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/21 找到：2027年9月16日入职，£45,000，伦敦 1 London Wall Place。表单填到第1步未提交。待 Byr 确认签证题「Do you have the right to live and work in the country for which you are applying?」；担保题按已确认填 Yes。后续测评第三项含录制视频回答，另有 300 字经历题。",
+      "nextStep": {
+        "action": "等 Byr 确认 Schroders 的「right to live and work」签证题"
+      }
     }
   ],
   "reviews": [],
