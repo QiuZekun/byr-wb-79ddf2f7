@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T17:28:46+00:00",
+  "updatedAt": "2026-11-22T13:38:34+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1618,6 +1618,19 @@
       "notes": "11/21 找到：2027年9月16日入职，£45,000，伦敦 1 London Wall Place。表单填到第1步未提交。待 Byr 确认签证题「Do you have the right to live and work in the country for which you are applying?」；担保题按已确认填 Yes。后续测评第三项含录制视频回答，另有 300 字经历题。",
       "nextStep": {
         "action": "等 Byr 确认 Schroders 的「right to live and work」签证题"
+      }
+    },
+    {
+      "id": "veolia-digital-transformation-2027",
+      "company": "Veolia",
+      "role": "Digital Transformation Graduate（Workday JR33710，2027年9月入职）",
+      "city": "London",
+      "deadline": "2026-12-02",
+      "status": "待确认",
+      "notes": "11/22 找到：2年项目，2027年9月入职，混合办公，Welby House, Pimlico。薪资 £28,500 另加 10% 伦敦地区津贴。申请截止 2026-12-02。Workday 表单第1–2步已保存（个人信息、UCL BSc Information Management for Business、2:1、2023–2026、已上传简历），未提交。待 Byr 确认签证题「Do you have the Right to work in the UK?」（仅 Yes/No，不是已确认的 Work Authorization 措辞，也未提及担保）。另有四道必答约200词短文（兴趣、为何 Veolia、一门课程或项目、岗位技能）。下一步是短优势测评，2027年1月线上评估日。",
+      "nextStep": {
+        "action": "确认签证题「Do you have the Right to work in the UK?」",
+        "due": "2026-12-02"
       }
     }
   ],
