@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T17:28:17+00:00",
+  "updatedAt": "2026-11-23T09:39:20+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1643,6 +1643,18 @@
       "notes": "11/22 找到：2027年9月入职，薪资最高约 £34,428，滚动招聘，免注册申请（jobs.better.org.uk），尚未填写也未提交。待 Byr 选择签证题「Please select your entitlement to work in the UK」（6个选项：Right to Abode / UK Resident、Visa showing right to work、EU/EEA/Swiss、Student Visa、I am seeking sponsorship、None of the above）。11/22 约17:25 GMT 已微信询问。",
       "nextStep": {
         "action": "等 Byr 回复签证选项后再填写提交"
+      }
+    },
+    {
+      "id": "fdm-change-transformation-2027",
+      "company": "FDM Group",
+      "role": "Change & Transformation Graduate Programme – London（职位 1361）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/23 找到：咨询派驻模式，需从首次客户派驻起服务至少24个月、可能全英调配；薪资未写，滚动招聘。已用 Outlook 注册 FDM 账号，申请表停在资格题页，未提交。11/23 约09:40 GMT 已微信问 Byr：Are you eligible to work in the UK?、24个月承诺、全英调配、未来六个月已订假期。",
+      "nextStep": {
+        "action": "等 Byr 回复 4 个问题后再填写提交"
       }
     }
   ],
