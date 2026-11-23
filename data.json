@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T10:02:50+00:00",
+  "updatedAt": "2026-11-23T15:23:38+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -727,17 +727,22 @@
       "city": "London",
       "channel": "官网",
       "applied": "2026-10-24",
-      "stage": "已投递",
-      "next": "填写 Rare Contextual Recruitment 问卷",
-      "nextDate": "",
-      "nextTime": "",
-      "updated": "2026-11-06",
-      "notes": "2027年8/9月入职；11/6 收到 Rare CRS 问卷邮件（无截止日）",
+      "stage": "测评/笔试",
+      "next": "完成 Arctic Shores 测评（5 个任务，每个约 5-10 分钟）",
+      "nextDate": "2026-11-30",
+      "nextTime": "23:59",
+      "updated": "2026-11-23",
+      "notes": "2027年8/9月入职；11/6 收到 Rare CRS 问卷邮件（无截止日）；11/23 收到 Arctic Shores 测评邀请，截止 11/30 23:59 英国时间",
       "history": [
         {
           "date": "2026-11-06",
           "time": "11:05",
           "text": "收到 Rare Contextual Recruitment 问卷，需在线填写"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "15:20",
+          "text": "收到 Arctic Shores 测评邀请（5 个任务），截止 11/30 23:59"
         }
       ]
     },
