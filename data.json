@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T09:39:20+00:00",
+  "updatedAt": "2026-11-23T10:02:50+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1651,11 +1651,8 @@
       "role": "Change & Transformation Graduate Programme – London（职位 1361）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/23 找到：咨询派驻模式，需从首次客户派驻起服务至少24个月、可能全英调配；薪资未写，滚动招聘。已用 Outlook 注册 FDM 账号，申请表停在资格题页，未提交。11/23 约09:40 GMT 已微信问 Byr：Are you eligible to work in the UK?、24个月承诺、全英调配、未来六个月已订假期。",
-      "nextStep": {
-        "action": "等 Byr 回复 4 个问题后再填写提交"
-      }
+      "status": "已跳过",
+      "notes": "11/23 找到：咨询派驻模式，需从首次客户派驻起服务至少24个月、可能全英调配；薪资未写，滚动招聘。已用 Outlook 注册 FDM 账号，申请表停在资格题页，未提交。11/23 约09:40 GMT 已微信问 Byr：Are you eligible to work in the UK?、24个月承诺、全英调配、未来六个月已订假期。 11/23 约10:02 GMT Byr 回复「放弃吧」，不申请，未提交。"
     }
   ],
   "reviews": [],
