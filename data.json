@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T17:36:51+00:00",
+  "updatedAt": "2026-11-23T19:20:20+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -406,11 +406,11 @@
       "channel": "官网",
       "applied": "2026-10-18",
       "stage": "测评/笔试",
-      "next": "等待 FCA 结果（通过后为 Assessment Centre）",
+      "next": "等待 FCA 审核结果（通过后为 Assessment Centre）",
       "nextDate": "",
       "nextTime": "",
-      "updated": "2026-11-04",
-      "notes": "10/20 收到 Candidate Report；岗位11/29截止；需整个项目期间有工作签证；10/28 通过第一轮在线测评，受邀 Job Insight Assessment，7天内完成（11/4 15:57 前），通过后为 Assessment Centre（1-5月，半天）；11/4 完成 Job Insight Assessment，15:35 收到反馈报告",
+      "updated": "2026-11-23",
+      "notes": "10/20 收到 Candidate Report；岗位11/29截止；需整个项目期间有工作签证；10/28 通过第一轮在线测评，受邀 Job Insight Assessment，7天内完成（11/4 15:57 前），通过后为 Assessment Centre（1-5月，半天）；11/4 完成 Job Insight Assessment，15:35 收到反馈报告；11/23 18:32 GMT 收到 FCA 邮件：申请审核中，未来几周内会联系",
       "history": [
         {
           "date": "2026-10-28",
