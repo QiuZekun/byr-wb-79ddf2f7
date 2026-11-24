@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:20:20+00:00",
+  "updatedAt": "2026-11-24T09:30:02+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1679,6 +1679,19 @@
       "deadline": "",
       "status": "已跳过",
       "notes": "11/23 找到：咨询派驻模式，需从首次客户派驻起服务至少24个月、可能全英调配；薪资未写，滚动招聘。已用 Outlook 注册 FDM 账号，申请表停在资格题页，未提交。11/23 约09:40 GMT 已微信问 Byr：Are you eligible to work in the UK?、24个月承诺、全英调配、未来六个月已订假期。 11/23 约10:02 GMT Byr 回复「放弃吧」，不申请，未提交。"
+    },
+    {
+      "id": "forvis-mazars-tax-ges-2027",
+      "company": "Forvis Mazars",
+      "role": "Tax – Tax Global Employer Solution Graduate Trainee – London – September 2027（Workday JR773）",
+      "city": "London",
+      "deadline": "2026-11-30",
+      "status": "待确认",
+      "notes": "11/24 通过 Higherin 找到：2027年9月1日入职，滚动招聘（Higherin 显示截止 11/30），伦敦/Sutton 办公室可担保签证。已用 Outlook 注册 Workday 账号，第1-2步已保存，第3步问题未保存，未提交。待 Byr 确认必填题「Will you have completed and obtained your most recent academic qualification and be available to begin work on the start date?」（MSc 2027年9月结束）。11/24 约09:40 GMT 已微信询问。",
+      "nextStep": {
+        "action": "等 Byr 确认毕业/入职日期题后再填写提交",
+        "due": "2026-11-30"
+      }
     }
   ],
   "reviews": [],
