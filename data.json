@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T13:38:51+00:00",
+  "updatedAt": "2026-11-24T17:24:02+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1712,6 +1712,19 @@
       "nextStep": {
         "action": "按 Byr 确认填 Yes 并继续填写提交",
         "due": "2026-11-30"
+      }
+    },
+    {
+      "id": "markel-london-market-claims-2027",
+      "company": "Markel International",
+      "role": "Graduate Programme – London Market Claims（Claims Adjuster & Claims Operations Assistant，ref 1756524）",
+      "city": "London",
+      "deadline": "2027-01-08",
+      "status": "待确认",
+      "notes": "11/24 通过公司招聘页（Sanctuary Graduates）找到：两年制项目，2027年9月入职，要求 2:2 以上。简短报名表，未填写未提交。待 Byr 确认必填单选题「Right to work」（6个选项）。11/24 约17:35 GMT 已微信询问。",
+      "nextStep": {
+        "action": "等 Byr 确认 Right to work 选项后提交",
+        "due": "2027-01-08"
       }
     }
   ],
