@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T17:29:20+00:00",
+  "updatedAt": "2026-11-25T21:25:29+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1758,6 +1758,19 @@
       "notes": "11/25 经 Bright Network 找到，滚动截止。已填到第4步（Guest apply），未提交：等 Byr 确认工作身份选项、签证说明文字、能否按岗位日期实习、毕业年份。微信发送暂时失败，已排队重发。",
       "nextStep": {
         "action": "等 Byr 回复第4步几题后提交",
+        "due": ""
+      }
+    },
+    {
+      "id": "qvc-ecommerce-grad-2027",
+      "company": "QVC UK",
+      "role": "Ecommerce Graduate Scheme（12个月轮岗，Workday R84099）",
+      "city": "London",
+      "deadline": "2027-01-03",
+      "status": "待确认",
+      "notes": "11/25 经 Indeed UK 找到，2027年9月入职，Chiswick 混合办公（每周2天到岗），薪资未写。已建 Workday 账号并填完个人信息、上传简历，停在 Application Questions 1/2，未提交：等 Byr 确认工作签证选项（3选1）和 Current salary 填 0。",
+      "nextStep": {
+        "action": "等 Byr 回复签证选项和当前薪资后提交",
         "due": ""
       }
     }
