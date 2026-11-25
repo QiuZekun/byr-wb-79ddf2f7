@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T21:23:10+00:00",
+  "updatedAt": "2026-11-25T13:28:38+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1725,6 +1725,19 @@
       "nextStep": {
         "action": "等 Byr 确认 Right to work 选项后提交",
         "due": "2027-01-08"
+      }
+    },
+    {
+      "id": "adobe-sports-partnerships-intern-2027",
+      "company": "Adobe",
+      "role": "2027 Intern – Sports and Marketing Partnerships（伦敦，£32,000 按比例，R173218）",
+      "city": "London",
+      "deadline": "",
+      "status": "待确认",
+      "notes": "11/25 经 Bright Network 找到，滚动截止。已填到第4步（Guest apply），未提交：等 Byr 确认工作身份选项、签证说明文字、能否按岗位日期实习、毕业年份。微信发送暂时失败，已排队重发。",
+      "nextStep": {
+        "action": "等 Byr 回复第4步几题后提交",
+        "due": ""
       }
     }
   ],
