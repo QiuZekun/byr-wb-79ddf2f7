@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T13:28:38+00:00",
+  "updatedAt": "2026-11-25T17:29:20+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1548,6 +1548,27 @@
           "date": "2026-11-24",
           "time": "13:38",
           "text": "已提交申请（SuccessFactors），页面显示 Your application has been sent. Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "trading212-compliance-grad",
+      "company": "Trading 212",
+      "role": "Graduate Compliance Monitoring Associate（London，hybrid，Ashby 40438fde）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-25",
+      "stage": "已投递",
+      "next": "等公司回复",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-25",
+      "notes": "通过 Ashby 访客表单提交（经 GradFind 找到）；确认页 “Success. You're all set - we've got your application.” 期望薪资 £30,000，2027年7月可入职，将来需要担保。岗位未写明入职日期。",
+      "history": [
+        {
+          "date": "2026-11-25",
+          "time": "17:45",
+          "text": "Ashby 提交成功"
         }
       ]
     }
