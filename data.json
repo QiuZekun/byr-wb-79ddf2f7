@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T09:36:16+00:00",
+  "updatedAt": "2026-11-26T19:23:36+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -24,12 +24,12 @@
       "city": "",
       "channel": "官网",
       "applied": "2026-10-16",
-      "stage": "一面",
-      "next": "完成 Criteria 单向录播视频面试（6 题约 15 分钟），收到后 1 周内完成",
-      "nextDate": "2026-11-10",
-      "nextTime": "15:10",
-      "updated": "2026-11-03",
-      "notes": "10/24 20:53 收到 Criteria 完成确认和 Workplace Insights 结果邮件；11/3 15:10 通过测评，收到单向视频面试邀请（截止约 11/10 15:10）",
+      "stage": "未通过",
+      "next": "",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-26",
+      "notes": "10/24 20:53 收到 Criteria 完成确认和 Workplace Insights 结果邮件；11/3 15:10 通过测评，收到单向视频面试邀请（截止约 11/10 15:10）；11/26 18:22 邮件通知：未在截止日期前收到已完成的在线测评（online assessment），申请已被从流程中撤回",
       "history": [
         {
           "date": "2026-10-24",
@@ -40,6 +40,11 @@
           "date": "2026-11-03",
           "time": "15:10",
           "text": "收到 Criteria 单向视频面试邀请，1 周内完成"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "18:22",
+          "text": "申请被撤回：未在截止日期前收到已完成的在线测评"
         }
       ],
       "reachedInterview": true
