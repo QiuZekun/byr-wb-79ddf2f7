@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T21:25:29+00:00",
+  "updatedAt": "2026-11-26T09:36:16+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1682,10 +1682,10 @@
       "role": "2027 Wealth Management (Transformation) Graduate Programme（Oracle job 2513）",
       "city": "London",
       "deadline": "",
-      "status": "待确认",
-      "notes": "11/21 找到：2027年9月16日入职，£45,000，伦敦 1 London Wall Place。表单填到第1步未提交。待 Byr 确认签证题「Do you have the right to live and work in the country for which you are applying?」；担保题按已确认填 Yes。后续测评第三项含录制视频回答，另有 300 字经历题。 11/22 15:09 GMT Byr 微信回复 yes：签证题填 Yes。",
+      "status": "已跳过",
+      "notes": "11/21 找到：2027年9月16日入职，£45,000，伦敦 1 London Wall Place。表单填到第1步未提交。待 Byr 确认签证题「Do you have the right to live and work in the country for which you are applying？」；担保题按已确认填 Yes。后续测评第三项含录制视频回答，另有 300 字经历题。11/22 15:09 GMT Byr 微信回复 yes：签证题填 Yes。11/26 查阅 Schroders 研究生 FAQ：须 already have the right to work without requiring sponsorship now or in the future，不能担保。未提交，已跳过，勿再投 Schroders 2027 研究生项目。",
       "nextStep": {
-        "action": "按 Byr 确认填 Yes 并继续 Schroders 后续步骤"
+        "action": "已跳过：公司要求现在和将来都不需要担保，不再提交"
       }
     },
     {
@@ -1772,6 +1772,19 @@
       "nextStep": {
         "action": "等 Byr 回复签证选项和当前薪资后提交",
         "due": ""
+      }
+    },
+    {
+      "id": "swissre-lh-reinsurance-consultant-2027",
+      "company": "Swiss Re",
+      "role": "Graduate L&H Reinsurance Consultant（18个月项目，2027年9月1日入职，SuccessFactors 139912）",
+      "city": "London",
+      "deadline": "2026-11-30",
+      "status": "待确认",
+      "notes": "11/26 经公司招聘页找到：伦敦，混合办公（每周至少3天到岗），截止 2026-11-30。SuccessFactors 账号已有（11/19 为 Property Underwriter 创建并验证）。11/26 已登录，申请未提交。停在两道必填工作身份题：（1）Are you authorised/eligible to work in the job location you are applying for？（Yes/No；若 Yes 需填写 currently held work permit）；（2）Do you have the legal right to work in the country where the role you are applying for is based？（仅 Yes/No，无说明栏）。不是已确认的 Work Authorization 措辞，未推断，已微信问 Byr。",
+      "nextStep": {
+        "action": "等 Byr 确认两道工作身份题后提交",
+        "due": "2026-11-30"
       }
     }
   ],
