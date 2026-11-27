@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T19:23:36+00:00",
+  "updatedAt": "2026-11-27T13:25:00+00:00",
   "timezone": "Europe/London",
   "apps": [
     {
@@ -1574,6 +1574,27 @@
           "date": "2026-11-25",
           "time": "17:45",
           "text": "Ashby 提交成功"
+        }
+      ]
+    },
+    {
+      "id": "bending-spoons-sales-grad",
+      "company": "Bending Spoons",
+      "role": "Graduate sales & account manager（London，job 695e19e0f8029dd400ffeb26）",
+      "city": "London",
+      "channel": "官网",
+      "applied": "2026-11-27",
+      "stage": "已投递",
+      "next": "等公司回复",
+      "nextDate": "",
+      "nextTime": "",
+      "updated": "2026-11-27",
+      "notes": "经 huntukvisasponsors.com 找到，在 Bending Spoons 官网表单提交（邮箱验证码验证）；确认页 “Application submitted!”。B2B 销售岗，London 起薪约 £68,579；岗位未写明入职日期。签证题选需要担保（Yes）。提交后的可选补充信息表（LinkedIn、求职信等）未填。",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "time": "13:26",
+          "text": "官网提交成功"
         }
       ]
     }
